@@ -1,0 +1,1653 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>艾瑞网_互联网数据资讯聚合平台</title>
+<meta name="keywords" content="艾瑞网,艾瑞咨询,报告,研究,数据,互联网,资讯"/>
+<meta name="description" content="艾瑞网聚合互联网数据资讯，融合互联网行业资源，提供电子商务、移动互联网、网络游戏、网络广告、网络营销等行业内容，为互联网管理营销市场运营人士提供丰富的产业数据、报告、专家观点、行业数据库等服务，打造最具影响力的互联网数据资讯聚合平台。"/>
+<meta name="sogou_site_verification" content="rrf0Dzr0TJ"/>
+<!-- <style> 
+    html { 
+        -webkit-filter: grayscale(100%); 
+        -moz-filter: grayscale(100%); 
+        -ms-filter: grayscale(100%); 
+        -o-filter: grayscale(100%); 
+        filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);  
+        _filter:none; 
+    } 
+</style> -->
+<meta charset="gb2312"/>
+<meta http-equiv="content-type" content="text/html;charset=gb2312">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+<!--DeBug -->
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Pragma" content="no-cache">
+<!--DeBug End-->
+<link type="text/css" rel="stylesheet" href="/include/public/css/base.css?v20200731" />
+<link rel="shortcut icon" href="/include/public/images/favicon.ico" />
+<link rel="apple-touch-icon" href="/include/public/images/touchicon.png" />
+<!-- jQuery -->
+<script src="/include/public/js/jquery.min.js" type="text/javascript"></script>
+<script src="/include/public/js/fastclick.js" type="text/javascript"></script>
+
+<script type="application/javascript">
+	window.addEventListener('load', function() {
+		FastClick.attach(document.body);
+	}, false);
+</script>
+
+<script>
+    function getUrl (name){
+        var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
+        var r = window.location.search.substr(1).match(reg);
+        if (r != null) return unescape(r[2]);
+        return null;
+    }
+</script>
+<script>
+    (function(doc, win) {
+        var docEl = doc.documentElement,
+            resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize',
+            recalc = function() {
+                var clientWidth = docEl.clientWidth;
+                if (!clientWidth) return;
+                var _FS = 40 * (clientWidth / 750);
+                if (_FS > 40) _FS = 40;
+                docEl.style.fontSize = _FS + 'px';
+            };
+
+        if (!doc.addEventListener) return;
+        win.addEventListener(resizeEvt, recalc, false);
+        doc.addEventListener('DOMContentLoaded', recalc, false);
+    })(document, window);
+</script>
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https'){
+   bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+  }
+  else{
+  bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+  }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+
+<!--IRS-Slice:9627-开始--><script type="text/javascript"> 
+(function goTo(){
+            var pageWidth = document.documentElement.clientWidth || document.body.clientWidth;
+console.log(pageWidth)
+            if (pageWidth  <= 979){
+                window.location.href = 'https://www.iresearch.cn/mindex.shtml';
+            }
+            window.onresize = goTo;
+        })();
+</script><!--IRS-Slice:9627-结束-->
+<link type="text/css" rel="stylesheet" href="/include/public/css/index.css"/>
+</head>
+<body class="page-home">
+<div class="g-home">
+  <!-- 页面头部 -->
+  <script>
+    var $body = document.getElementsByTagName('body')[0];
+    if (getUrl('deviceType') == 'mobile') {
+        $body.classList.add('deviceTypeisMobile');
+    }
+    if (getUrl('hiddenbottom') == '1') {
+        $body.classList.add('deviceTypeisMobile1');
+    }
+    if (getUrl('comeFrom') == 'iresearchAPP') {
+        $body.classList.add('iresearchAPP');
+    }
+</script>
+<div class="g-hd">
+    <div class="g-bar">
+        <div class="g-in">
+            <div class="m-bar">
+                <a href="https://group.iresearch.com.cn/" target="_blank">艾瑞集团</a>|<a target="_blank" href="https://www.iresearch.com.cn/">艾瑞咨询</a>|<a href="https://data.iresearch.com.cn/" target="_blank">艾瑞数据</a>|<a href="https://capital.iresearch.com.cn/"
+                    target="_blank">艾瑞资本</a>|<a href="http://www.iresearch.cn/">艾瑞网</a>|<a href="https://events.iresearch.cn/" target="_blank">艾瑞活动</a>|<a href="http://www.iresearchchina.com/" target="_blank">English</a>
+            </div>
+        </div>
+    </div>
+    <div class="g-in">
+        <div class="m-head f-cb">
+            <div class="g-logo f-fl">
+                <h1 class="m-logo"><a class="f-ti" href="http://www.iresearch.cn/" title="艾瑞网">艾瑞网</a></h1>
+            </div>
+            <div class="g-ad f-fr">
+                <div class="m-ad" id="headAdBox">
+                    <!-- <a href="http://data.iresearch.com.cn/iRIndex.shtml" target="_blank"><img src="/include/images/ad/ad201711291.gif?20171127" alt=""></a> -->
+                </div>
+                <!-- 头部广告条 -->
+                <script src="/include/public/js/headAd.js?1206"></script>
+            </div>
+        </div>
+    </div>
+    <div class="g-nav-user f-usn">
+        <div class="g-in">
+            <div class="m-nav-user f-cb">
+                <div class="g-nav">
+                    <div class="m-nav">
+                        <ul class="f-cb">
+                            <li class="link"><a href="//www.iresearch.cn/">首页</a></li>
+                            <li class="link"><a href="//news.iresearch.cn/">互联网+</a></li>
+                            <li class="link"><a href="//column.iresearch.cn/">专栏</a></li>
+                            <li class="link"><a href="//report.iresearch.cn/">报告</a></li>
+                            <li class="link"><a href="//start.iresearch.cn/">创投</a></li>
+                            <li class="link"><a href="//events.iresearch.cn/">活动</a></li>
+                            <!-- <li class="more">
+                                <span class="u-btns">
+                                    <button type="button" class="u-btn"><span class="btntxt">更多 </span><span class="btnsel"></span></button>
+                                <menu class="u-menu u-menu-min u-menu-rt"> <span><a href="http://a.iresearch.cn/">营销</a></span> <span><a href="http://data.iresearch.cn/company/">行业库</a></span> <span><a href="http://news.iresearch.cn/zt/">专题</a></span><span><a href="http://news.iresearch.cn/pics/">图文资讯</a></span><span><a href="http://events.iresearch.cn/">品牌活动</a></span> </menu>
+                                </span>
+                            </li> -->
+                        </ul>
+                    </div>
+                </div>
+                <div class="g-user">
+                    <div class="m-user">
+                        <ul class="f-cb">
+                            <li class="search z-hover">
+                                <span class="search-keyword">
+                                    <input class="u-ipt" type="text" id="keywrod" placeholder="Search">
+                                </span> <span class="u-icon u-icon-sear searchbtn"><i id="searchBtn">搜索</i></span>
+                            </li>
+                            <li class="user" id="user">
+                                <span id="loginstate" class="u-icon u-icon-user"><i><a href="#">登录</a></i></span>
+                                <menu id="userbox" class="u-menu u-menu-1">
+                                    <em class="u-icon u-icon-up2"><i></i></em>
+                                    <!-- <span><a id="login-but" href="login.html"  data-title="&nbsp" data-url="login.html">登录</a></span>-->
+                                    <span><a href="https://center.iresearch.cn/loginbk.shtml">登录</a></span>
+                                    <span><a href="https://center.iresearch.cn/reg.shtml">用户注册</a></span>
+                                </menu>
+                                <!--<menu class="u-menu u-menu-2">
+                                    <em class="u-icon u-icon-up2"><i></i></em>
+                                    <span class="u-icon u-icon-my"><a href="#"><i></i>我的艾瑞</a></span>
+                                    <span class="u-icon u-icon-set"><a href="#"><i></i>账户设置</a></span>
+                                    <span class="u-icon u-icon-out"><a href="#"><i></i>退出</a></span>
+                                </menu>-->
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="g-mobile-head">
+        <div class="in-con">
+            <div class="item t-logo">
+                <a href="http://www.iresearch.cn/"><img src="/include/public/images/logo_206x63.png"></a>
+            </div>
+            <div class="item menu-btn f-ti"><span class="more" id="nav-more"><img alt="更多" src="/include/public/images/icon_menu.png"></span></div>
+        </div>
+    </div>
+
+    <div class="g-nav-mobile">
+        <div class="exp-bg"></div>
+        <div class="exp-cont">
+            <div class="g-mobile-head">
+                <span class="close-btn-icon"><img src="/include/public/images/menu-close-icon.png"></span>
+                <div class="in-con">
+                    <div class="item t-logo">
+                        <a href="http://www.iresearch.cn/"><img src="/include/public/images/logo_206x63.png"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="exp-nav-cont"></div>
+        </div>
+    </div>
+
+</div>
+
+
+
+
+<!-- <div id="ire-head">
+    <h1 class="ire-logo">
+        <a href="http://www.iresearch.cn/"><img src="http://www.iresearch.cn/include/public/images/ire-logo.png" alt="艾瑞网"></a>
+    </h1>
+    <nav class="ire-nav">
+        <div class="ire-nav-in">
+            <ul>
+                <li data-id='home'><a href="http://www.iresearch.cn/">首页</a></li>
+                <li data-id='web'><a href="http://news.iresearch.cn/">互联网+</a></li>
+                <li data-id='column'><a href="http://column.iresearch.cn/">专栏</a></li>
+                <li data-id='research'><a href="http://report.iresearch.cn/">报告</a></li>
+                <li data-id='start'><a href="http://start.iresearch.cn/">创投</a></li>
+                <li data-id='market'><a href="http://a.iresearch.cn/">营销</a></li>
+                <li data-id='industry'><a href="http://data.iresearch.cn/company/">行业库</a></li>
+                <li data-id='doc'><a href="http://news.iresearch.cn/zt/">专题</a></li>
+                <li data-id='imgList'><a href="http://news.iresearch.cn/pics/">图文资讯</a></li>
+                <li data-id='event'><a href="http://events.iresearch.cn/">品牌活动</a></li>
+            </ul>
+        </div>
+        <i class="ire-line"></i>
+        <button class="ire-nav-more-btn" type="button"></button>
+    </nav>
+    <div class="ire-nav-all"></div>
+    <div class="ire-mask"></div>
+</div> -->
+<!--  head部分js   -->
+<!-- <script>
+    $(function() {
+
+        if($(window).width() <= 979){
+
+            //导航高亮
+            if (!!$('body').attr('class')) {
+                var pageId = $('body').attr('class').split('page-')[1].split(' ')[0];
+
+                $('nav li').each(function() {
+                    if ($(this).attr('data-id') == pageId) {
+                        $(this).addClass('active').siblings().removeClass('active');
+                        var _l = $('nav li.active').offset().left;
+                        $('.ire-nav-in').scrollLeft(_l - 50);
+                        return false
+                    }
+                });
+            }
+
+
+            //点击展开全部导航
+            $('.ire-nav-all').html($('.ire-nav > div').html());
+            $('.ire-nav-more-btn,#ire-head .ire-mask').on('click', function() {
+
+                $(this).toggleClass('up');
+                $('.ire-nav-all').toggleClass('open');
+                $('body').toggleClass('ire-overflow');
+                $('#ire-head').find('.ire-mask').toggle();
+
+            });
+
+
+            //导航条悬浮在顶部
+            var header = document.querySelector('.ire-nav');
+            var menu = document.querySelector('.ire-menu');
+            var body = document.getElementsByTagName('body')[0];
+            var origOffsetY = header.offsetTop;
+
+            function onScroll(e) {
+                if (window.scrollY >= origOffsetY) {
+                    if(header){
+                        header.classList.add('ire_fixed');
+                        body.style.paddingTop = '44px'
+                    }
+                    if(menu){
+                        menu.classList.add('ire_fixed');
+                        body.style.paddingTop = '89px'
+                    }
+
+                   body.classList.add('ire_padTop');
+                } else {
+                    if(header){
+                        header.classList.remove('ire_fixed');
+                    }
+                    if(menu){
+                        menu.classList.remove('ire_fixed');
+                    }
+                    body.classList.remove('ire_padTop');
+                    body.style.paddingTop = ''
+                }
+            }
+            if(!$(body).hasClass('deviceTypeisMobile')){
+                document.addEventListener('scroll', onScroll);
+            }
+        }
+    });
+</script> -->
+
+
+<div id="ire-head">
+
+    <nav class="ire-nav">
+        <button class="ire-nav-more-btn" type="button">
+            <div class="icon-bar"></div>
+            <div class="icon-bar"></div>
+            <div class="icon-bar"></div>
+        </button>
+        <h1 class="ire-logo">
+            <a href="http://www.iresearch.cn/"><img src="http://www.iresearch.cn/include/public/images/ire-logo.png" alt="艾瑞网"></a>
+        </h1>
+        <button class="ire-search-btn">
+            <i class="ire-icon-search"></i>
+        </button>
+    </nav>
+    <div class="ire-nav-all">
+        <ul>
+            <!-- <li data-id='home'><a href="http://www.iresearch.cn/">首页</a></li> -->
+            <li data-id='web'>
+                <a href="http://news.iresearch.cn/">互联网+</a>
+                <ul class="subclass-list">
+					<li><a href="http://news.iresearch.cn/?web">互联网</a></li>
+                    <li><a href="http://news.iresearch.cn/">移动互联网</a></li>
+                    <li><a href="http://news.iresearch.cn/?ec">电子商务</a></li>
+                    <li><a href="http://news.iresearch.cn/?marke">网络营销</a></li>
+                    <li><a href="http://news.iresearch.cn/?game">网络游戏</a></li>
+                </ul>
+            </li>
+            <li data-id='column'>
+                <a href="http://column.iresearch.cn/">专栏</a>
+                <!-- <ul class="subclass-list">
+					<li><a href="http://column.iresearch.cn/?web">互联网</a></li>
+                    <li><a href="http://column.iresearch.cn/">移动互联网</a></li>
+                    <li><a href="http://column.iresearch.cn/?ec">电子商务</a></li>
+                    <li><a href="http://column.iresearch.cn/?marke">网络营销</a></li>
+                    <li><a href="http://column.iresearch.cn/?game">网络游戏</a></li>
+                </ul> -->
+            </li>
+            <li data-id='research'>
+                <a href="http://report.iresearch.cn/">报告</a>
+                <ul class="subclass-list">
+                    <li><a href="http://report.iresearch.cn/">报告</a></li>
+                    <!--<li><a href="http://report.iresearch.cn/?data">数据</a></li> -->
+                    <li><a href="http://report.iresearch.cn/?research">研究</a></li>
+                </ul>
+            </li>
+            <li data-id='doc'>
+                <a href="http://news.iresearch.cn/zt/">专题</a>
+                <ul class="subclass-list">
+                    <li><a href="http://news.iresearch.cn/zt/">新闻热点</a></li>
+                    <li><a href="http://news.iresearch.cn/zt/?hyzt">会议专题</a></li>
+                </ul>
+            </li>
+
+            <li class="row">
+                <a href="http://start.iresearch.cn/">创投</a>
+                <a href="http://a.iresearch.cn/">营销</a>
+                <a href="http://data.iresearch.cn/company/">行业库</a>
+                <a href="http://news.iresearch.cn/pics/">图文资讯</a>
+                <a href="http://events.iresearch.cn/">品牌活动</a>
+            </li>
+
+        </ul>
+    </div>
+    <div class="ire-mask"></div>
+</div>
+
+
+
+<!-- 搜索弹层 -->
+<div class="ire-search-wrap transition">
+    <div class="ire-search-wrap-mask"></div>
+    <div class="ire-search-wrap-cont">
+        <form action="#" method="get">
+            <div class="search-input-box">
+                <div class="search-input-in">
+                    <input id="pop-keyword" type="search" name="" class="search-input" placeholder="输入关键词">
+                    <button id="pop-search" class="input-sm-search"><i class="ire-icon-search"></i></button>
+                </div>
+                <span class="close-box">取消</span>
+            </div>
+        </form>
+
+        <div class="search-act search-history-act" style="display: block;">
+            <div class="search-act-tit">搜索历史</div>
+            <ul class="search-ul search-history"></ul>
+        </div>
+
+        <div class="search-act">
+            <div class="search-act-tit">热搜词</div>
+            <ul class="search-ul search-hot">
+                <li><a href="http://s.iresearch.cn/search/区块链/">区块链</a></li>
+                <li><a href="http://s.iresearch.cn/search/共享/">共享</a></li>
+                <li><a href="http://s.iresearch.cn/search/人工智能/">人工智能</a></li>
+                <li><a href="http://s.iresearch.cn/search/无人零售/">无人零售</a></li>
+                <li><a href="http://s.iresearch.cn/search/独角兽/">独角兽</a></li>
+                <li><a href="http://s.iresearch.cn/search/购物/">购物</a></li>
+                <li><a href="http://s.iresearch.cn/search/泛娱乐/">泛娱乐</a></li>
+                <li><a href="http://s.iresearch.cn/search/直播/">直播</a></li>
+                <li><a href="http://s.iresearch.cn/search/广告/">广告</a></li>
+                <li><a href="http://s.iresearch.cn/search/电商/">电商</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- 搜索弹层 end-->
+<script src="/include/js/jquery.cookie.js"></script>
+<script>
+    $(function() {
+        var w_height = $(window).height() - 45;
+        var bodyScroll = $(window).scrollTop();
+
+
+        function navOpen() { //打开导航
+            $('.ire-nav-more-btn').addClass('active');
+            $('#ire-head .ire-nav-all ').addClass('open').height(w_height);
+            $('#ire-head .ire-mask ').show();
+            $('body,body >div[class^="g-"]').css({
+                height: w_height,
+                overflow: 'hidden'
+            });
+
+        }
+
+        function navClose() { //关闭导航
+            $('.ire-nav-more-btn').removeClass('active');
+            $('#ire-head .ire-nav-all ').removeClass('open').height('');
+            $('#ire-head .ire-mask ').hide();
+            $('body,body >div[class^="g-"]').css({
+                height: '',
+                overflow: ''
+            });
+        }
+
+        function searchOpen() { //打开搜索
+            $('.ire-search-wrap').addClass('active');
+            $('body,body >div[class^="g-"]').css({
+                height: w_height,
+                overflow: 'hidden'
+            });
+        }
+
+        function searchClose() { //关闭搜索
+            $('.ire-search-wrap').removeClass('active');
+            $('body,body >div[class^="g-"]').css({
+                height: '',
+                overflow: ''
+            });
+        }
+
+        var historyInfo = $.cookie("historyInfo");
+        if (historyInfo != undefined) {
+            historyInfo = JSON.parse(historyInfo);
+            if (historyInfo.length > 0) {
+                var html = "";
+                for (var i = 0; i < historyInfo.length; i++) {
+                    html += '<li class="transition" data-con=' + historyInfo[i].name + '><a href="' +
+                        historyInfo[i].url +
+                        '">' +
+                        historyInfo[i].name +
+                        '</a></li>';
+                }
+                $(".ire-search-wrap .search-history").html(html);
+            }
+        } else {
+            historyInfo = [];
+        }
+        if ($(".ire-search-wrap .search-history").html() == '') {
+            $(".ire-search-wrap .search-history-act").hide();
+        }
+
+        //移动端导航切换
+        $('.ire-nav-more-btn').on('click', function() {
+            if (!$(this).hasClass('active')) { //打开
+                bodyScroll = $(window).scrollTop();
+                navOpen();
+
+            } else { //关闭
+                navClose();
+                $('html,body').scrollTop(bodyScroll);
+            }
+
+        });
+
+        //点击遮罩层关闭导航弹层
+        $('#ire-head .ire-mask ').on('click', function() {
+            navClose();
+            $('html,body').scrollTop(bodyScroll);
+        });
+
+        //搜索
+        $('.ire-search-btn').on('click', function() {
+            if($('body').css("overflow") != 'hidden'){
+                bodyScroll = $(window).scrollTop();
+            }
+            navClose();
+            searchOpen();
+        });
+
+        $('.search-input-box .close-box').on('click', function() {
+            searchClose();
+            $('html,body').scrollTop(bodyScroll);
+        });
+
+        $("#pop-search").on("click",
+            function() {
+                var notGo = true;
+                var keyword = $("#pop-keyword").val().replace(/(^\s*)|(\s*$)/g, "");
+                if (keyword == "" || keyword == "Search") {
+                    return;
+                }
+                var enKewword = encodeURIComponent(keyword);
+                $(".ire-search-wrap .search-history-act").show();
+                for (var i = 0; i < historyInfo.length; i++) {
+                    if (historyInfo[i].name == keyword) {
+                        historyInfo.splice(i, 1);
+                    }
+                }
+                $('.ire-search-wrap .search-history li[data-con="' + keyword + '"]').remove();
+                $(".ire-search-wrap .search-history").append('<li class="transition" data-con=' +
+                    keyword +
+                    '><a href="' +
+                    "http://s.iresearch.cn/search/" +
+                    enKewword +
+                    "/" +
+                    '">' +
+                    keyword +
+                    '</a></li>');
+                historyInfo.push({
+                    name: keyword,
+                    url: "http://s.iresearch.cn/search/" + enKewword + "/"
+                });
+                if (historyInfo.length > 10) {
+                    historyInfo.splice(0, 1);
+                }
+                if ($(".ire-search-wrap .search-history li").length > 10) {
+                    $($(".ire-search-wrap .search-history li")[0]).remove();
+                }
+                $.cookie('historyInfo', JSON.stringify(historyInfo), {
+                    expires: 365,
+                    path: '/',
+                    domain: '.iresearch.cn'
+                });
+
+                var url = "http://s.iresearch.cn/search/" + enKewword + "/";
+                location.href = url;
+                return false;
+                //window.navigate(url);
+            });
+    });
+</script>
+
+  <!-- 页面头部 end-->
+  <!-- 页面主体部分 -->
+  <div class="g-bd f-mt-auto">
+    <div class="g-in f-cb">
+      <!-- 左侧内容区 -->
+      <div class="g-mn">
+        <div class="g-mnc">
+          <!-- 今日头条 -->
+          <div class="g-news-column">
+            <div class="m-news-column">
+              <div class="m-hd m-hd-nb">
+                <h2 class="u-tt">今日热点</h2>
+              </div>
+              <div class="m-bd">
+                <div class="m-list">
+                  <ul class="f-cb">
+                    <!--IRS-Slice:9321-开始--><li class="major"><a href="http://news.iresearch.cn/content/202008/336599.shtml" target="_blank">外媒：中方出手！TikTok交易或推至美国大选后</a></li><!--IRS-Slice:9321-结束-->
+<!--IRS-Slice:9434-开始--><li class="major"><a href="http://news.iresearch.cn/content/202008/336625.shtml" target="_blank">马云：培养孩子是投资 而不是炒股投机</a></li><!--IRS-Slice:9434-结束-->
+                    <!--IRS-Slice:9322-开始--><li><a href="http://news.iresearch.cn/content/202008/336636.shtml" target="_blank">央视：Tiktok打官司表明了维权的态度和决心</a></li><li><a href="http://news.iresearch.cn/content/202008/336635.shtml" target="_blank">7400家企业，400款App封杀：中国出海大迁徙</a></li><li><a href="http://news.iresearch.cn/content/202008/336638.shtml" target="_blank">白菜价！百元5G手机要来了</a></li><li><a href="http://news.iresearch.cn/content/202008/336631.shtml" target="_blank">美电信软件缺陷致全球部分网络服务中断</a></li><!--IRS-Slice:9322-结束-->
+                  </ul>
+                </div>
+                <div class="m-list4 f-mt-auto">
+                  <!--IRS-Slice:9323-开始--><ul class="f-cb"><li>
+                                            <div class="u-img u-img-auto"><a href="http://news.iresearch.cn/content/202008/336633.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202008/637344673243677946.jpg" alt="蚂蚁集团科创板IPO审核状态变更为“已问询”" /></a></div>
+                                            <h3><a href="http://news.iresearch.cn/content/202008/336633.shtml" target="_blank">蚂蚁集团科创板IPO审核状态变更为“已问询”</a></h3>
+                                        </li><li>
+                                            <div class="u-img u-img-auto"><a href="http://news.iresearch.cn/content/202008/336632.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202008/637344668580265585.png" alt="马斯克展示Neuralink赛博猪，芯片植入人脑还有多远？" /></a></div>
+                                            <h3><a href="http://news.iresearch.cn/content/202008/336632.shtml" target="_blank">马斯克展示Neuralink赛博猪，芯片植入人脑还有多远？</a></h3>
+                                        </li><li>
+                                            <div class="u-img u-img-auto"><a href="http://news.iresearch.cn/content/202008/336619.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202008/637344658356099243.jpg" alt="iPhone12传闻全汇总：从这里了解未来新品的模样" /></a></div>
+                                            <h3><a href="http://news.iresearch.cn/content/202008/336619.shtml" target="_blank">iPhone12传闻全汇总：从这里了解未来新品的模样</a></h3>
+                                        </li><li>
+                                            <div class="u-img u-img-auto"><a href="http://news.iresearch.cn/content/202008/336382.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202008/637342061775788573.jpg" alt="消息称，Tiktok出售给微软的交易可能在未来48小时内达成" /></a></div>
+                                            <h3><a href="http://news.iresearch.cn/content/202008/336382.shtml" target="_blank">消息称，Tiktok出售给微软的交易可能在未来48小时内达成</a></h3>
+                                        </li></ul><!--IRS-Slice:9323-结束-->
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- 今日头条 end-->
+          <!-- 活动 -->
+          <div class="g-activity f-mt-auto">
+            <div class="m-activity">
+              <div class="m-bd">
+                <dl class="f-cb">
+                  <dt>数据</dt>
+                  <dd>
+                    <div class="m-list">
+                      <!--IRS-Slice:9324-开始--><ul>
+<li><a href="http://news.iresearch.cn/zt/316517.shtml" target="_blank">艾瑞疫期产业观察</a></li>
+</ul>
+<!--IRS-Slice:9324-结束-->
+                    </div>
+                  </dd>
+                </dl>
+              </div>
+            </div>
+          </div>
+          <!-- 活动 end-->
+          <!-- 资讯 -->
+          <div class="g-news f-mt-auto">
+            <div class="m-news">
+              <div class="m-bd">
+                <div class="m-list3 m-list3-img3" id="tab-list">
+                  <div data="specialId=399">
+                    <ul id="htm_box" class="f-cb">
+                     <!--IRS-Slice:9481-开始-->       <li id="freport.3644">           <div class="m-item f-cb z-sort-3">               <div class="u-img"><a href="http://report.iresearch.cn/report/202008/3644.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202008/637344931597409424.jpg" alt=""><span class="sort">报告</span></a></div>               <div class="txt">                   <h3><a href="http://report.iresearch.cn/report/202008/3644.shtml" target="_blank">2020年中国网络文学出海研究报告</a></h3>                   <p>《2020年中国网络文学出海研究报告》对中国网络文学出海的发展概况、出海模式、核心企业案例、海外用户及网文出海发展趋势进行了深入探讨。</p>                   <div class="foot f-cb">                       <div class="link f-fl"><a href="http://s.iresearch.cn/search/wangluowenxue/" target="_blank">网络文学</a><a href="http://s.iresearch.cn/search/chuhai/" target="_blank">出海</a></div>                       <div class="time f-fr"><span>2020-08-31</span></div>                   </div>               </div>           </div>       </li>        <li id="news.336654">           <div class="m-item f-cb z-sort-1">               <div class="u-img"><a href="http://news.iresearch.cn/content/202008/336654.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202008/637344706725979162.jpg" alt=""><span class="sort">资讯</span></a></div>               <div class="txt">                   <h3><a href="http://news.iresearch.cn/content/202008/336654.shtml" target="_blank">午报 | 华为将在9月10日揭晓“鸿蒙OS”；乐视将范冰冰告上法庭</a></h3>                   <p>华为将在9月10日揭晓“鸿蒙OS”；乐视将范冰冰告上法庭</p>                   <div class="foot f-cb">                       <div class="link f-fl"><a href="http://s.iresearch.cn/search/huawei/" target="_blank">华为</a><a href="http://s.iresearch.cn/search/TikTok/" target="_blank">Tik Tok</a><a href="http://s.iresearch.cn/search/xiaomi/" target="_blank">小米</a></div>                       <div class="time f-fr"><span>2020-08-31</span></div>                   </div>               </div>           </div>       </li>        <li id="news.336646">           <div class="m-item f-cb z-sort-1">               <div class="u-img"><a href="http://news.iresearch.cn/content/202008/336646.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202004/637237569802829828.png" alt=""><span class="sort">资讯</span></a></div>               <div class="txt">                   <h3><a href="http://news.iresearch.cn/content/202008/336646.shtml" target="_blank">TapTap获得3.3亿元战略投资；爱泊车完成数亿人民币C+轮融资；维拓科技完成数千万元A轮融资</a></h3>                   <p>TapTap获得心动游戏3.3亿元战略投资；爱泊车完成数亿人民币C+轮融资；维拓科技完成数千万元A轮融资</p>                   <div class="foot f-cb">                       <div class="link f-fl"><a href="http://s.iresearch.cn/search/TAPTAP/" target="_blank">TapTap</a><a href="http://s.iresearch.cn/search/aiboche/" target="_blank">爱泊车</a><a href="http://s.iresearch.cn/search/weituokeji/" target="_blank">维拓科技</a></div>                       <div class="time f-fr"><span>2020-08-31</span></div>                   </div>               </div>           </div>       </li>        <li id="news.336636">           <div class="m-item f-cb z-sort-1">               <div class="u-img"><a href="http://news.iresearch.cn/content/202008/336636.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202008/637344678144374159.jpg" alt=""><span class="sort">资讯</span></a></div>               <div class="txt">                   <h3><a href="http://news.iresearch.cn/content/202008/336636.shtml" target="_blank">央视：Tiktok打官司表明了维权的态度和决心</a></h3>                   <p>8月24日，抖音海外版Tiktok向美国加州联邦地区法院提起诉讼，控告特朗普政府之前签发的涉及该公司及其母公司字节跳动的行政令违法。Tiktok在起诉书中表示：对于所遭受的不公正待遇，我们别无选择，只能采取行动保护自身权利。</p>                   <div class="foot f-cb">                       <div class="link f-fl"><a href="http://s.iresearch.cn/search/TikTok1/" target="_blank">TikTok</a><a href="http://s.iresearch.cn/search/weiquan/" target="_blank">维权</a></div>                       <div class="time f-fr"><span>2020-08-31</span></div>                   </div>               </div>           </div>       </li>        <li id="news.336635">           <div class="m-item f-cb z-sort-1">               <div class="u-img"><a href="http://news.iresearch.cn/content/202008/336635.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202008/637344676130040925.jpg" alt=""><span class="sort">资讯</span></a></div>               <div class="txt">                   <h3><a href="http://news.iresearch.cn/content/202008/336635.shtml" target="_blank">7400家企业，400款App封杀：中国出海大迁徙</a></h3>                   <p>印度的封禁、美国的“阻断”，并没有改变中国企业的全球化之路，没有打断他们的出海规划，中企出海早已练就一身“U盘式”生存法则。</p>                   <div class="foot f-cb">                       <div class="link f-fl"><a href="http://s.iresearch.cn/search/chuhai/" target="_blank">出海</a><a href="http://s.iresearch.cn/search/App/" target="_blank">App</a></div>                       <div class="time f-fr"><span>2020-08-31</span></div>                   </div>               </div>           </div>       </li>        <li id="news.336633">           <div class="m-item f-cb z-sort-1">               <div class="u-img"><a href="http://news.iresearch.cn/content/202008/336633.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202008/637344673243677946.jpg" alt=""><span class="sort">资讯</span></a></div>               <div class="txt">                   <h3><a href="http://news.iresearch.cn/content/202008/336633.shtml" target="_blank">蚂蚁集团科创板IPO审核状态变更为“已问询”</a></h3>                   <p>8月31日早间消息，上交所官网显示，蚂蚁集团科创板IPO审核状态变更为“已问询”。</p>                   <div class="foot f-cb">                       <div class="link f-fl"><a href="http://s.iresearch.cn/search/mayijituan/" target="_blank">蚂蚁集团</a><a href="http://s.iresearch.cn/search/kechuangban/" target="_blank">科创板</a><a href="http://s.iresearch.cn/search/IPO/" target="_blank">IPO</a></div>                       <div class="time f-fr"><span>2020-08-31</span></div>                   </div>               </div>           </div>       </li>        <li id="news.336638">           <div class="m-item f-cb z-sort-1">               <div class="u-img"><a href="http://news.iresearch.cn/content/202008/336638.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202008/637344680477446879.jpg" alt=""><span class="sort">资讯</span></a></div>               <div class="txt">                   <h3><a href="http://news.iresearch.cn/content/202008/336638.shtml" target="_blank">白菜价！百元5G手机要来了</a></h3>                   <p>随着5G网络普及速度加快，5G手机终端的价格也在不断下探，市面上千元机正在不断增加，可选择型号也愈发丰富。而接下来，5G手机将逐渐4G化，千元以内的百元5G手机或很快到来。</p>                   <div class="foot f-cb">                       <div class="link f-fl"><a href="http://s.iresearch.cn/search/5G/" target="_blank">5G</a><a href="http://s.iresearch.cn/search/shouji/" target="_blank">手机</a><a href="http://s.iresearch.cn/search/baiyuan/" target="_blank">百元</a></div>                       <div class="time f-fr"><span>2020-08-31</span></div>                   </div>               </div>           </div>       </li>        <li id="news.336632">           <div class="m-item f-cb z-sort-1">               <div class="u-img"><a href="http://news.iresearch.cn/content/202008/336632.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202008/637344668580265585.png" alt=""><span class="sort">资讯</span></a></div>               <div class="txt">                   <h3><a href="http://news.iresearch.cn/content/202008/336632.shtml" target="_blank">马斯克展示Neuralink赛博猪，芯片植入人脑还有多远？</a></h3>                   <p>马斯克旗下的脑机接口公司Neuralink举办发布活动，公开了可实际运作的Neuralink设备和自动植入手术设备。</p>                   <div class="foot f-cb">                       <div class="link f-fl"><a href="http://s.iresearch.cn/search/masike/" target="_blank">马斯克</a><a href="http://s.iresearch.cn/search/xinpianzhiru/" target="_blank">芯片植入</a><a href="http://s.iresearch.cn/search/Neuralink/" target="_blank">Neuralink</a><a href="http://s.iresearch.cn/search/saibozhu/" target="_blank">赛博猪</a></div>                       <div class="time f-fr"><span>2020-08-31</span></div>                   </div>               </div>           </div>       </li>        <li id="news.336631">           <div class="m-item f-cb z-sort-1">               <div class="u-img"><a href="http://news.iresearch.cn/content/202008/336631.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202008/637344665426616264.jpg" alt=""><span class="sort">资讯</span></a></div>               <div class="txt">                   <h3><a href="http://news.iresearch.cn/content/202008/336631.shtml" target="_blank">美电信软件缺陷致全球部分网络服务中断</a></h3>                   <p>美国电信公司世纪网线的一个网络程序错误（bug）导致全球多个市场的互联网服务短暂被切断，一些广受欢迎的流媒体服务、游戏平台和欧洲足球赛网上视频都受到影响。</p>                   <div class="foot f-cb">                       <div class="link f-fl"><a href="http://s.iresearch.cn/search/dianxinruanjian/" target="_blank">电信软件</a><a href="http://s.iresearch.cn/search/wangluofuwu/" target="_blank">网络服务</a><a href="http://s.iresearch.cn/search/zhongduan1/" target="_blank">中断</a></div>                       <div class="time f-fr"><span>2020-08-31</span></div>                   </div>               </div>           </div>       </li>        <li id="news.336625">           <div class="m-item f-cb z-sort-1">               <div class="u-img"><a href="http://news.iresearch.cn/content/202008/336625.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202008/637344660286148673.jpg" alt=""><span class="sort">资讯</span></a></div>               <div class="txt">                   <h3><a href="http://news.iresearch.cn/content/202008/336625.shtml" target="_blank">马云：培养孩子是投资 而不是炒股投机</a></h3>                   <p>马云在云谷学校开学典礼上说，“一般开学第一课给孩子上，我认为我们应该给家长上。因为在中国，孩子18岁之前，决定孩子命运、决定孩子学习的是家长。”</p>                   <div class="foot f-cb">                       <div class="link f-fl"><a href="http://s.iresearch.cn/search/mayun/" target="_blank">马云</a><a href="http://s.iresearch.cn/search/jiaoyu/" target="_blank">教育</a><a href="http://s.iresearch.cn/search/touzi/" target="_blank">投资</a><a href="http://s.iresearch.cn/search/touji/" target="_blank">投机</a></div>                       <div class="time f-fr"><span>2020-08-31</span></div>                   </div>               </div>           </div>       </li>        <li id="news.336619">           <div class="m-item f-cb z-sort-1">               <div class="u-img"><a href="http://news.iresearch.cn/content/202008/336619.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202008/637344658356099243.jpg" alt=""><span class="sort">资讯</span></a></div>               <div class="txt">                   <h3><a href="http://news.iresearch.cn/content/202008/336619.shtml" target="_blank">iPhone12传闻全汇总：从这里了解未来新品的模样</a></h3>                   <p>AppleInsider将传言做了一次汇总，这些细节中也许已经暗示了iPhone12的模样和其他信息。</p>                   <div class="foot f-cb">                       <div class="link f-fl"><a href="http://s.iresearch.cn/search/pingguo/" target="_blank">苹果</a><a href="http://s.iresearch.cn/search/iPhone121/" target="_blank">iPhone12</a></div>                       <div class="time f-fr"><span>2020-08-31</span></div>                   </div>               </div>           </div>       </li>        <li id="news.336599">           <div class="m-item f-cb z-sort-1">               <div class="u-img"><a href="http://news.iresearch.cn/content/202008/336599.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202008/637344650485264862.jpg" alt=""><span class="sort">资讯</span></a></div>               <div class="txt">                   <h3><a href="http://news.iresearch.cn/content/202008/336599.shtml" target="_blank">外媒：中方出手！TikTok交易或推至美国大选后</a></h3>                   <p>8月28日，我国商务部和科技联合公布《关于调整发布<中国禁止出口限制出口技术目录>的公告》，专家点名这可能涉及TikTok的技术。</p>                   <div class="foot f-cb">                       <div class="link f-fl"><a href="http://s.iresearch.cn/search/TikTok1/" target="_blank">TikTok</a><a href="http://s.iresearch.cn/search/zijietiaodong/" target="_blank">字节跳动</a><a href="http://s.iresearch.cn/search/chukou/" target="_blank">出口</a><a href="http://s.iresearch.cn/search/jinzhi/" target="_blank">禁止</a><a href="http://s.iresearch.cn/search/xianzhi/" target="_blank">限制</a></div>                       <div class="time f-fr"><span>2020-08-31</span></div>                   </div>               </div>           </div>       </li>        <li id="freport.3643">           <div class="m-item f-cb z-sort-3">               <div class="u-img"><a href="http://report.iresearch.cn/report/202008/3643.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202008/637342348963187677.jpg" alt=""><span class="sort">报告</span></a></div>               <div class="txt">                   <h3><a href="http://report.iresearch.cn/report/202008/3643.shtml" target="_blank">2020年中国在线导购平台行业研究报告</a></h3>                   <p>随着网络购物市场进入成熟繁荣的存量发展时期，在线导购行业在2019年也迎来了重大突破。数据显示2019年在线导购平台行业整体GMV规模达到1187.4亿元，连续15年呈现高速发展态势。品效合一是品牌方愈发重视的营销需求，也是在线导购平台提升自身行业生态壁垒的努力方向，即在同一平台为用户提供种草（心智占领）、长草（认知引导）到拔草（消费决策）的消费全链路服务。与此同时服务范畴开始衍生出综合型和垂直型两种类型，成为品牌方进行品效合一营销的有力渠道。</p>                   <div class="foot f-cb">                       <div class="link f-fl"></div>                       <div class="time f-fr"><span>2020-08-28</span></div>                   </div>               </div>           </div>       </li>        <li id="freport.3642">           <div class="m-item f-cb z-sort-3">               <div class="u-img"><a href="http://report.iresearch.cn/report/202008/3642.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202008/637342346482782480.jpg" alt=""><span class="sort">报告</span></a></div>               <div class="txt">                   <h3><a href="http://report.iresearch.cn/report/202008/3642.shtml" target="_blank">数说Z世代｜2020年7月中国移动互联网流量月度分析报告</a></h3>                   <p>《数说Z世代｜2020年7月中国移动互联网月度流量分析报告》基于艾瑞十八年对互联网流量研究的研究经验、数据积累以及艾瑞数据监测工具多平台网民行为监测数据库UserTracker、新媒体市场监测工具OneMedia持续的监测数据，内容包含2020年7月移动互联网流量发展概况、暑期中的Z世代人群洞察以及2020年7月中国移动互联网价值榜，希望能为相关企业提供参考意见。</p>                   <div class="foot f-cb">                       <div class="link f-fl"><a href="" target="_blank">移动互联网，流量</a></div>                       <div class="time f-fr"><span>2020-08-28</span></div>                   </div>               </div>           </div>       </li>        <li id="news.336428">           <div class="m-item f-cb z-sort-1">               <div class="u-img"><a href="http://news.iresearch.cn/content/202008/336428.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202004/637237569802829828.png" alt=""><span class="sort">资讯</span></a></div>               <div class="txt">                   <h3><a href="http://news.iresearch.cn/content/202008/336428.shtml" target="_blank">奥浦迈完成近3亿元B轮融资；诺领科技获得2亿元B轮投资；好姑姑完成亿级战略融资</a></h3>                   <p>奥浦迈完成近3亿元B轮融资；诺领科技获得2亿元B轮投资；好姑姑完成亿级战略融资</p>                   <div class="foot f-cb">                       <div class="link f-fl"><a href="http://s.iresearch.cn/search/aopumai/" target="_blank">奥浦迈</a><a href="http://s.iresearch.cn/search/nuolingkeji/" target="_blank">诺领科技</a><a href="http://s.iresearch.cn/search/haogugu/" target="_blank">好姑姑</a></div>                       <div class="time f-fr"><span>2020-08-28</span></div>                   </div>               </div>           </div>       </li>        <li id="news.336433">           <div class="m-item f-cb z-sort-1">               <div class="u-img"><a href="http://news.iresearch.cn/content/202008/336433.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202008/637342107946403147.png" alt=""><span class="sort">资讯</span></a></div>               <div class="txt">                   <h3><a href="http://news.iresearch.cn/content/202008/336433.shtml" target="_blank">午报 | TikTok最快下周宣布交易；数据显示近九成影院复工</a></h3>                   <p>TikTok最快下周宣布交易；数据显示近九成影院复工</p>                   <div class="foot f-cb">                       <div class="link f-fl"><a href="http://s.iresearch.cn/search/TikTok1/" target="_blank">tiktok</a><a href="http://s.iresearch.cn/search/quanjude/" target="_blank">全聚德</a><a href="http://s.iresearch.cn/search/dianyingyuan/" target="_blank">电影院</a></div>                       <div class="time f-fr"><span>2020-08-28</span></div>                   </div>               </div>           </div>       </li> <!--IRS-Slice:9481-结束-->
+                    </ul>
+                  </div>
+                </div>
+                <!-- 加载更多 -->
+                <div class="m-loadmore f-mt-auto">
+                  <button id="loadbtn" class="u-btn u-btn-c5">点击加载更多></button>
+                </div>
+                <!-- 加载更多 end-->
+              </div>
+            </div>
+          </div>
+          <!-- 资讯 end-->
+        </div>
+      </div>
+      <!-- 左侧内容区 end-->
+      <!-- 右侧边栏 -->
+      <div class="g-sd">
+        <div class="g-sdc">
+          <!-- 焦点图 -->
+          <div class="g-focus">
+            <div class="m-focus focus-box">
+              <div class="m-bd">
+                <div class="m-slide">
+                  <!--IRS-Slice:9325-开始--><ul class="slides">
+
+<li><a href="https://www.iresearch.cn/a/202007/329798.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202007/637298876812454883.jpg" alt="高考作文“一条信息”引热议，数说“信息流”的发展变化"/></a>
+</li>
+
+<li><a href="http://news.iresearch.cn/content/202008/333394.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202008/637323319472129954.jpg" alt="反转！微软重启收购 美国为何抓住TikTok不放？"/></a>
+</li>
+
+<li><a href="https://www.iresearch.cn/a/202007/329799.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202008/637323104711412391.jpg" alt="未到量产就倒下 造车新势力的竞争力应该在哪？"/></a>
+</li>
+
+<li><a href="http://news.iresearch.cn/content/202006/327012.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202006/ec40e39d-2ff4-45c9-821f-10b0ef6e05c5.jpg" alt="丁磊带货猪肉、张朝阳现磨咖啡，门户网站大佬的直播带货之路"/></a>
+</li>
+
+<li><a href="https://www.iresearch.cn/a/202005/323392.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202005/fb67b069-3d83-4a87-9a1a-a9127ca870c4.jpg" alt="全时的挣扎与妥协"/></a>
+</li>
+
+
+</ul><!--IRS-Slice:9325-结束-->
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- 焦点图 end-->
+          <!-- 专家专栏 -->
+          <div class="g-column f-mt-auto">
+            <div class="m-column">
+              <div class="m-hd">
+                <h2 class="u-tt">专家专栏</h2>
+                <div class="more"><a class="u-icon u-icon-tg" href="http://center.iresearch.cn/reg.shtml"><i></i>投稿</a></div>
+              </div>
+              <div class="m-bd">
+                <div class="m-list3 m-list3-img1">
+                  <!--IRS-Slice:9326-开始--><ul class="f-cb"> <li>
+                                            <div class="u-img">
+                                                <img src="http://pic.iresearch.cn/user/photo/139701.jpg" alt="康斯坦丁" />
+                                                <div class="u-tt u-txt-bc"><a href="http://column.iresearch.cn/u/139701/" target="_blank">康斯坦丁</a></div>
+                                            </div>
+                                            <div class="txt">
+                                                <h3><a href="http://column.iresearch.cn/b/202008/896306.shtml" target="_blank">花小猪打车被多地叫停背后：裂变营销在出行领域玩不转吗？</a></h3>
+                                                <p>后疫情时代钱包紧缩，你的生活方式是否发生了一定变化呢？原本在外寻觅美食的你，变成在家制作美食的“大厨”；在专柜买护肤品从不眨眼的你，习惯看着直播货比三家……甚至连出门，都变得“斤斤计较”——想方设法去</p>
+                                            </div>
+                                        </li> <li>
+                                            <div class="u-img">
+                                                <img src="http://pic.iresearch.cn/user/photo/893523.jpg" alt="刘旷" />
+                                                <div class="u-tt u-txt-bc"><a href="http://column.iresearch.cn/u/893523/" target="_blank">刘旷</a></div>
+                                            </div>
+                                            <div class="txt">
+                                                <h3><a href="http://column.iresearch.cn/b/202008/896298.shtml" target="_blank">财报相继出炉：阿里、京东、拼多多走向了三岔口</a></h3>
+                                                <p>配图来自Canva在疫情影响逐渐消退的二季度，各大公司的财报也相继出炉，虽然有人欢喜有人忧，但也掀起了各个领域中的一次次高潮。而在电商领域，随着京东、阿里和拼多多相继公布了各自的财报之后，电商领域中的</p>
+                                            </div>
+                                        </li></ul><!--IRS-Slice:9326-结束-->
+                </div>
+                <div class="m-list2 m-list2-rt">
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- 专家专栏 end-->
+<!-- 邮件订阅-右侧 -->
+                    <div class="g-mailsub f-mt-auto">
+                    	<div class="m-mailsub">
+                        	<div class="mail-box f-cb">
+                            	<div class="u-icon u-icon-email-bg"><i></i></div>
+                                <div class="mail-con">
+                                	<div class="mail-con-in">
+                                    	<p>邮箱订阅：与35万用户一起订阅 <span><a href="http://www.iresearch.cn/today.aspx">iResearch Today</a></span></p>
+                                        <div class="form-box f-cb">
+                                        	<div class="btn"><button onclick="Subscribe('SubEmail2');" id="subemail2" class="btns">订阅</button></div>
+                                        	<div class="txt"><div class="txt-in"><input class="u-ipt" id="SubEmail2" type="text" placeholder="输入您的邮箱地址"></div></div>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>	
+<!-- 邮件订阅-右侧 end-->
+          <!-- 专题 -->
+          <div class="g-special f-mt-auto">
+            <div class="m-special f-bg1">
+              <div class="m-hd">
+                <h2 class="u-tt">专题</h2>
+              </div>
+              <div class="m-bd">
+                <!--IRS-Slice:9328-开始--> <div class="u-img f-mt15"><a  target="_blank" href="http://news.iresearch.cn/zt/316517.shtml"><img src="https://pic.iresearch.cn/news/202002/7f33ef9e-23c8-4022-a79c-786052cd4ddd.jpg" alt="艾瑞疫期产业观察 | 疫情之下系列研究" /></a></div><!--IRS-Slice:9328-结束-->
+                <div class="m-list2 m-list6 m-list6-1">
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- 专题 end-->
+ <!-- 研控来了 -->
+          <div class="g-create f-mt-auto">
+            <div class="m-create f-bg1">
+              <div class="m-hd">
+                <h2 class="u-tt">投融快讯</h2>
+              </div>
+              <div class="m-bd">
+                <div class="m-list3 m-list3-img2">
+                 <!--IRS-Slice:9588-开始--><ul class="f-cb"><li>
+<div class="u-img">
+<a href="http://news.iresearch.cn/content/202008/336646.shtml" target="_blank">
+<img src="https://pic.iresearch.cn/news/202004/637237569802829828.png" alt="TapTap获得3.3亿元战略投资；爱泊车完成数亿人民币C+轮融资；维拓科技完成数千万元A轮融资"></a></div>
+<div class="txt">
+<h3><a href="http://news.iresearch.cn/content/202008/336646.shtml" target="_blank">TapTap获得3.3亿元战略投资；爱泊车完成数亿人民币C+轮融资；维拓科技完成数千万元A轮融资</a></div><div class="txt"></a></h3>
+<p>TapTap获得心动游戏3.3亿元战略投资；爱泊车完成数亿人民币C+轮融资；维拓科技完成数千万元A轮融资</p>
+</div>
+</li></ul><!--IRS-Slice:9588-结束-->
+                </div>
+                <div class="m-list2">
+                <!--IRS-Slice:9589-开始--><ul><li><a href="http://news.iresearch.cn/content/202008/336428.shtml" target="_blank">奥浦迈完成近3亿元B轮融资；诺领科技获得2亿元B轮投资；好姑姑完成亿级战略融资</a><i class="dot"></i></li><li><a href="http://news.iresearch.cn/content/202008/336175.shtml" target="_blank">开课吧获得5.5亿元A轮融资；火花思维完成1.5亿美元E轮融资；小满科技获得数亿元D轮融资</a><i class="dot"></i></li><li><a href="http://news.iresearch.cn/content/202008/335992.shtml" target="_blank">星际荣耀完成11.925亿元B轮融资；信诺维完成10亿元C轮融资；三生生物获得2亿元战略投资</a><i class="dot"></i></li><li><a href="http://news.iresearch.cn/content/202008/335807.shtml" target="_blank">万和证券获得9.5亿元战略投资；轩竹医药完成8亿元A轮融资；申淇医疗完成数亿元C轮融资</a><i class="dot"></i></li></ul><!--IRS-Slice:9589-结束-->
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- 研控来了 end-->
+
+
+          <!-- 广告位 -->
+           <!--<div class="g-special f-mt10">
+            <div class="m-special">
+              <div class="m-bd">
+               <div class="u-img"><a  target="_blank" href="http://m.app.caixin.com/m_topic_detail/1513.html"><img src="https://pic.iresearch.cn/events/202005/637263490810029986.jpg" alt="" /></a></div>
+              </div>
+            </div>
+          </div>-->
+          <!-- 广告位 end-->
+
+
+          <!-- 视频访谈 -->
+          <div class="g-video f-mt-auto">
+            <div class="m-video f-bg1">
+              <div class="m-hd">
+                <h2 class="u-tt">人物访谈</h2>
+              </div>
+              <div class="m-bd">
+                <!--IRS-Slice:9330-开始--><ul class="f-cb">
+
+<li>
+      <div class="u-img f-m-c"><a href="http://news.iresearch.cn/content/2020/05/324859.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202005/665386d7-3b11-4c01-8397-4ff29be900be.jpg" alt="吴镝" /></a></div>
+    <div class="info"><br />
+    <a href="http://news.iresearch.cn/content/2020/05/324859.shtml" target="_blank">吴镝<br>
+   万宝盛华</a></div>
+    <div class="line"></div>
+    <a href="http://news.iresearch.cn/content/2020/05/324859.shtml" target="_blank"><div class="desp">从用户和市场的角度，灵活用工的确可以被进行不同的定义。</div></a>
+  </li>
+
+<li>
+      <div class="u-img f-m-c"><a href="http://news.iresearch.cn/content/2020/04/321090.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202004/463d8eb1-720f-4a82-b144-b2e8dc3f82c6.jpg" alt="龙梦竹" /></a></div>
+    <div class="info"><br />
+    <a href="http://news.iresearch.cn/content/2020/04/321090.shtml" target="_blank">龙梦竹<br>
+   思必驰</a></div>
+    <div class="line"></div>
+    <a href="http://news.iresearch.cn/content/2020/04/321090.shtml" target="_blank"><div class="desp">以赋能终端为重点业务，在智能车载与家用智能终端领域打下基业。</div></a>
+  </li>
+ 
+</ul><!--IRS-Slice:9330-结束-->
+              </div>
+            </div>
+          </div>
+          <!-- 视频访谈 end-->
+          <!-- 行业峰会 -->
+          <div class="g-summit f-mt-auto">
+            <div class="m-summit f-bg1">
+              <div class="m-hd">
+                <h2 class="u-tt">行业峰会</h2>
+              </div>
+              <div class="m-bd">
+                <!--IRS-Slice:9331-开始--><table class="m-table m-table-row">
+  <tbody>
+    <tr>
+      <td class="colc">12-5</td>
+      <td class="cole null">　</td>
+      <td><div class="f-toe zt"><a href="http://news.iresearch.cn/zt/309474.shtml" target="_blank">2019艾瑞（上海）年度高峰会议</a></div></td>
+      <td class="cold">上海</td>
+      <td class="cold"><a class="but" href="http://news.iresearch.cn/zt/309474.shtml" target="_blank">回顾</a></td>
+    </tr>
+    <tr>
+      <td class="colc">6-21</td>
+      <td class="cole null">　</td>
+      <td><div class="f-toe zt"><a href="http://news.iresearch.cn/zt/293273.shtml" target="_blank">2019中国（深圳）电子商务发展论坛</a></div></td>
+      <td class="cold">深圳</td>
+      <td class="cold"><a class="but" href="http://news.iresearch.cn/zt/293273.shtml" target="_blank">回顾</a></td>
+    </tr>
+    <tr>
+      <td class="colc">6-13</td>
+      <td class="cole null">　</td>
+      <td><div class="f-toe zt"><a href="http://news.iresearch.cn/zt/292049.shtml" target="_blank">2019艾瑞（北京）年度高峰会议</a></div></td>
+      <td class="cold">北京</td>
+      <td class="cold"><a class="but" href="http://news.iresearch.cn/zt/292049.shtml" target="_blank">回顾</a></td>
+    </tr>
+    <tr>
+      <td class="colc">12-7</td>
+      <td class="cole null">　</td>
+      <td><div class="f-toe zt"><a href="http://events.iresearch.cn/summit/313/" target="_blank">2018艾瑞（上海）年度高峰会议</a></div></td>
+      <td class="cold">上海</td>
+      <td class="cold"><a class="but" href="http://events.iresearch.cn/summit/313/" target="_blank">回顾</a></td>
+    </tr>
+    <tr>
+      <td class="colc">11-16</td>
+      <td class="cole null">　</td>
+      <td><div class="f-toe zt"><a href="http://events.iresearch.cn/itconference/314/" target="_blank" rel="nofollow">2018粤港澳大湾区产业互联网峰会</a></div></td>
+      <td class="cold">东莞</td>
+      <td class="cold"><a class="but" href="http://events.iresearch.cn/itconference/314/" target="_blank"  class="but">回顾</a></td>
+    </tr>
+    <tr>
+      <td class="colc">8-23</td>
+      <td class="cole null">　</td>
+      <td><div class="f-toe zt"><a href="http://events.iresearch.cn/summit/310/" target="_blank">2018艾瑞（深圳）年度高峰会议</a></div></td>
+      <td class="cold">深圳</td>
+      <td class="cold"><a class="but" href="http://events.iresearch.cn/summit/310/" target="_blank">回顾</a></td>
+    </tr>
+    <tr>
+      <td class="colc">5-25</td>
+      <td class="cole null">　</td>
+      <td><div class="f-toe zt"><a href="http://events.iresearch.cn/itconference/309/" target="_blank">2018中国（深圳）电子商务发展论坛</a></div></td>
+      <td class="cold">深圳</td>
+      <td class="cold"><a class="but" href="http://events.iresearch.cn/itconference/309/" target="_blank">回顾</a></td>
+    </tr>
+  </tbody>
+</table><!--IRS-Slice:9331-结束-->
+              </div>
+            </div>
+          </div>
+          <!-- 行业峰会 end-->
+         
+          <!-- 创事记 -->
+          <div class="g-create f-mt-auto">
+            <div class="m-create f-bg1">
+              <div class="m-hd">
+                <h2 class="u-tt">创新</h2>
+              </div>
+              <div class="m-bd">
+                <div class="m-list3 m-list3-img2">
+                  <!--IRS-Slice:9334-开始--><ul class="f-cb"><li>
+                                            <div class="u-img"><a href="http://news.iresearch.cn/content/202003/317003.shtml" target="_blank"><img src="https://pic.iresearch.cn/news/202003/637188254714904334.jpg" alt="满世界取昵称，是这届年轻人的悲哀"/></a></div>
+                                            <div class="txt">
+                                                <h3><a href="http://news.iresearch.cn/content/202003/317003.shtml" target="_blank">满世界取昵称，是这届年轻人的悲哀</a></h3>
+                                                <p>还有什么行为，比给抗疫中的种种伤痛、奋进、坚守取昵称，更让人感到肉麻的呢？</p>
+                                            </div>
+                                        </li></ul><!--IRS-Slice:9334-结束-->
+                </div>
+                <div class="m-list2">
+                  <!--IRS-Slice:9335-开始--><ul><li><a href="http://news.iresearch.cn/content/202003/316912.shtml" target="_blank">第一波经济已经暖起来了</a><i class="dot"></i></li><li><a href="http://news.iresearch.cn/content/202002/316771.shtml" target="_blank">WeWork败走IPO后 苹果将把其经历拍成电视剧</a><i class="dot"></i></li><li><a href="http://news.iresearch.cn/content/202002/316572.shtml" target="_blank">学霸B站，风口下喜忧参半</a><i class="dot"></i></li><li><a href="http://news.iresearch.cn/content/202002/316288.shtml" target="_blank">自我“隔离”生活总结：三周就可以宅出如此新高度</a><i class="dot"></i></li></ul><!--IRS-Slice:9335-结束-->
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- 创事记 end-->
+          <!-- 关注 -->
+          <div class="g-concern f-mt-auto">
+            <div class="m-concern f-bg1">
+              <div class="m-hd">
+                <h2 class="u-tt">关注</h2>
+              </div>
+              <div class="m-bd">
+
+                <div class="m-list2">
+                  <!--IRS-Slice:9336-开始--><ul><li><a href="http://news.iresearch.cn/content/2020/03/318574.shtml" target="_blank">链家发布数据报告 展现新一代经纪人的价值成长</a><i class="dot"></i></li><li><a href="http://news.iresearch.cn/content/2020/03/318370.shtml" target="_blank">中国海外置业市场行业观察——美日泰吸引国人80%的投资目光</a><i class="dot"></i></li><li><a href="http://news.iresearch.cn/content/2020/02/316490.shtml" target="_blank">人民智作高额奖金全网征集战“疫”内容精品</a><i class="dot"></i></li><li><a href="http://news.iresearch.cn/content/2020/02/315885.shtml" target="_blank">分众传媒“黑科技”支撑，防控宣传片全国“刷屏”</a><i class="dot"></i></li><li><a href="http://news.iresearch.cn/content/2020/01/313408.shtml" target="_blank">营销重构，创新不止，百度企业商学院第三届公开课圆满落幕！</a><i class="dot"></i></li></ul><!--IRS-Slice:9336-结束-->
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- 关注 end-->
+          <!-- 案例推荐 -->
+          <div class="g-case f-mt-auto">
+            <div class="m-case f-bg1">
+              <div class="m-hd">
+                <h2 class="u-tt">案例推荐</h2>
+              </div>
+              <div class="m-bd">
+                <div class="m-list3 m-list3-img2">
+
+
+                  <!--IRS-Slice:9337-开始--><ul class="f-cb"><li>
+                                            <div class="u-img"><a href="http://a.iresearch.cn/case/6773.shtml" target="_blank"><img src="http://pic.iresearch.cn/case/202004/1711573606.jpg" alt=" 京东手机年货节《在意在意你的人》" /></a></div>
+                                            <div class="txt">
+                                                <h3><a href="http://a.iresearch.cn/case/6773.shtml" target="_blank" class="a_t"> 京东手机年货节《在意在意你的人》</a></h3>
+                                                <p>在年末各种走心营销铺天盖地的市场化传播环境中，京东手机力求打造出差异化营销，用一种更加真实的方式，挖掘手机作为人与人之间的通讯工具，其背后所蕴藏的、又容易被人们忽略的情感，拉近品牌与用户之间的距离，提升用户好感。</p>
+                                            </div>
+                                        </li><li>
+                                            <div class="u-img"><a href="http://a.iresearch.cn/case/6718.shtml" target="_blank"><img src="http://pic.iresearch.cn/case/202004/1711580344.jpg" alt=" “爱的温度”跨界营销" /></a></div>
+                                            <div class="txt">
+                                                <h3><a href="http://a.iresearch.cn/case/6718.shtml" target="_blank" class="a_t"> “爱的温度”跨界营销</a></h3>
+                                                <p>借助墨迹天气的天气数据资源，重磅打造“医药+天气”春节场景化营销-“爱的温度”活动，强化品牌关怀印象，向消费者传递温暖。</p>
+                                            </div>
+                                        </li></ul><!--IRS-Slice:9337-结束-->
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- 案例推荐 end-->
+          
+          <!-- 行业会议 -->
+         <div class="g-industry_meeting f-mt-auto">
+    <div class="m-industry_meeting">
+        <div class="m-hd">
+            <h2 class="u-tt">行业会议</h2>
+        </div>
+        <div class="m-bd">
+            <div class="m-list4">
+<!--IRS-Slice:9436-开始--><ul class="f-cb">
+<li>
+<div class="u-img"><a href="https://events.pedaily.cn/customized/899/" target="_blank">
+<img src="https://pic.iresearch.cn/news/202008/7ce494ad-01f7-4f46-9345-ecaa37c9c99d.jpg" alt="2020全球创投峰会" />
+</a></div>
+<h3><a href="https://events.pedaily.cn/customized/899/" target="_blank">2020全球创投峰会</a></h3>
+<!--投放时间：8月28日-9月4日-->
+</li>
+<li>
+<div class="u-img"><a href="http://www.iesexpo.com/" target="_blank">
+<img src="https://pic.iresearch.cn/news/202008/cc6a120e-a9db-43b2-9f3d-e036cbaa9128.jpg" alt="第六届中国（济南）电子商务产业博览会" />
+</a></div>
+<h3><a href="http://www.iesexpo.com/" target="_blank">第六届中国（济南）电子商务产业博览会</a></h3>
+<!--投放时间：8月14日-9月14日-->
+</li>
+</ul><!--IRS-Slice:9436-结束-->
+            </div>
+            
+        </div>
+    </div>
+</div>
+          <!-- 行业会议 end-->
+          
+          <!-- 排行榜 -->
+          <div class="g-top f-mt-auto">
+            <div class="m-hd">
+              <div class="m-top">
+                <ul>
+                  <li onClick="tabs(this,'tab-cont')" class="z-crt"><a href="javascript:void(0)">日排行</a></li>
+                  <li onClick="tabs(this,'tab-cont')"><a href="javascript:void(0)">周排行</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="m-bd">
+              <div class="m-list2 m-list5 m-list6 list-s2" id="tab-cont">
+                <div>
+                  <ul>
+                    
+<li><a href='http://news.iresearch.cn/content/202008/336619.shtml' target='_blank' title='iPhone12传闻全汇总：从这里了解未来新品的模样'>iPhone12传闻全汇总：从这里了解未来新品的模样</a><i class="nub"></i></li>
+
+<li><a href='http://news.iresearch.cn/content/202008/336599.shtml' target='_blank' title='外媒：中方出手！TikTok交易或推至美国大选后'>外媒：中方出手！TikTok交易或推至美国大选后</a><i class="nub"></i></li>
+
+<li><a href='http://news.iresearch.cn/content/202008/336654.shtml' target='_blank' title='午报 | 华为将在9月10日揭晓“鸿蒙OS”；乐视将范冰冰告上法庭'>午报 | 华为将在9月10日揭晓“鸿蒙OS”；乐视将范冰冰告上法庭</a><i class="nub"></i></li>
+
+<li><a href='http://news.iresearch.cn/content/202008/336625.shtml' target='_blank' title='马云：培养孩子是投资 而不是炒股投机'>马云：培养孩子是投资 而不是炒股投机</a><i class="nub"></i></li>
+
+<li><a href='http://news.iresearch.cn/content/202008/336632.shtml' target='_blank' title='马斯克展示Neuralink赛博猪，芯片植入人脑还有多远？'>马斯克展示Neuralink赛博猪，芯片植入人脑还有多远？</a><i class="nub"></i></li>
+
+<li><a href='http://news.iresearch.cn/content/202008/336635.shtml' target='_blank' title='7400家企业，400款App封杀：中国出海大迁徙'>7400家企业，400款App封杀：中国出海大迁徙</a><i class="nub"></i></li>
+
+<li><a href='http://news.iresearch.cn/content/202008/336638.shtml' target='_blank' title='白菜价！百元5G手机要来了'>白菜价！百元5G手机要来了</a><i class="nub"></i></li>
+
+<li><a href='http://news.iresearch.cn/content/202008/336636.shtml' target='_blank' title='央视：Tiktok打官司表明了维权的态度和决心'>央视：Tiktok打官司表明了维权的态度和决心</a><i class="nub"></i></li>
+
+<li><a href='http://news.iresearch.cn/content/202008/336633.shtml' target='_blank' title='蚂蚁集团科创板IPO审核状态变更为“已问询”'>蚂蚁集团科创板IPO审核状态变更为“已问询”</a><i class="nub"></i></li>
+
+<li><a href='http://news.iresearch.cn/content/202008/336631.shtml' target='_blank' title='美电信软件缺陷致全球部分网络服务中断'>美电信软件缺陷致全球部分网络服务中断</a><i class="nub"></i></li>
+
+                  </ul>
+                </div>
+                <div style="display:none">
+                  <ul>
+                    
+<li><a href='http://news.iresearch.cn/content/202008/336619.shtml' target='_blank' title='iPhone12传闻全汇总：从这里了解未来新品的模样'>iPhone12传闻全汇总：从这里了解未来新品的模样</a><i class="nub"></i></li>
+
+<li><a href='http://news.iresearch.cn/content/202008/335963.shtml' target='_blank' title='iPhone12全系配置曝光：10月上市 售价不会涨太多'>iPhone12全系配置曝光：10月上市 售价不会涨太多</a><i class="nub"></i></li>
+
+<li><a href='http://news.iresearch.cn/content/202008/336376.shtml' target='_blank' title='分析师：苹果iPhone12将不附赠任何配件，或比iPhone11贵'>分析师：苹果iPhone12将不附赠任何配件，或比iPhone11贵</a><i class="nub"></i></li>
+
+<li><a href='http://news.iresearch.cn/content/202008/336379.shtml' target='_blank' title='电商财报“三国杀”：拼多多用户年底超阿里？'>电商财报“三国杀”：拼多多用户年底超阿里？</a><i class="nub"></i></li>
+
+<li><a href='http://news.iresearch.cn/content/202008/335969.shtml' target='_blank' title='每天净赚1.2亿 人均月薪5.8万 蚂蚁是靠什么赚钱的?'>每天净赚1.2亿 蚂蚁是靠什么赚钱的?</a><i class="nub"></i></li>
+
+<li><a href='http://news.iresearch.cn/content/202008/336599.shtml' target='_blank' title='外媒：中方出手！TikTok交易或推至美国大选后'>外媒：中方出手！TikTok交易或推至美国大选后</a><i class="nub"></i></li>
+
+<li><a href='http://news.iresearch.cn/content/202008/336411.shtml' target='_blank' title='顺丰总裁王卫发出5亿红包 全部员工每人888'>顺丰总裁王卫发出5亿红包 全部员工每人888</a><i class="nub"></i></li>
+
+<li><a href='http://news.iresearch.cn/content/202008/335787.shtml' target='_blank' title=' TikTok正式起诉美国政府 起诉书里都说了些什么？'> TikTok正式起诉美国政府 起诉书里都说了些什么？</a><i class="nub"></i></li>
+
+<li><a href='http://news.iresearch.cn/content/202008/336124.shtml' target='_blank' title='贝索斯身家超2000亿美元 甩第二名盖茨780亿'>贝索斯身家超2000亿美元 甩第二名盖茨780亿</a><i class="nub"></i></li>
+
+<li><a href='http://news.iresearch.cn/content/202008/336388.shtml' target='_blank' title='赵立坚：如果美国禁用微信，我们也可以不用苹果手机'>赵立坚：如果美国禁用微信，我们也可以不用苹果手机</a><i class="nub"></i></li>
+
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- 排行榜 end-->
+        </div>
+      </div>
+      <!-- 右侧边栏 end-->
+    </div>
+  </div>
+  <!-- 页面主体部分 end-->
+  <!-- 页面底部 -->
+  <style type="text/css">
+	#page-ft { display: none;}
+	.page-footer { background-color:rgba(57,67,78,1); color: #fff; text-align: center; padding: 5% 0;font-size: 14px;}
+	.page-footer * { box-sizing: border-box; }
+	.page-footer a,
+	.page-footer a:focus,
+	.page-footer a:hover {
+		color: inherit;
+		text-decoration: none;
+	}
+	.page-footer img { max-width: 100%;}
+	.foot-logo { padding: 2% 0; margin-bottom: 10px; opacity: .85;}
+	.foot-hr { border-top: solid 1px rgba(50,58,69,1); line-height: 0; height: 0; font-size: 0; clear: both; overflow: hidden; margin: 4% 0;}
+	.foot-link { display: flex; font-size: 14px; padding: 2% 0; line-height: 1.6;}
+	.foot-link .item { flex: 1;color: #fff;opacity: .7;flex: 1;text-align: center; font-size: .9em;}
+	.email-subscribe { padding: 4% 0; font-size: 14px;}
+	.email-subscribe-hd { white-space: nowrap; font-size: .9em;}
+	.email-subscribe-hd span { font-family: Arial, Helvetica, sans-serif; color: #d3d3d3; margin-right: 1em;;}
+	.email-subscribe-hd em { color: #9ca1a6;}
+	.email-subscribe-bd { position: relative; margin: 10px 11% 0; display: flex; align-items: center;}
+	.email-subscribe .email-ipt { flex: 1; height: 2.3em; border: 0; background-color: #313743; border-radius: 4px 0 0 4px; padding: 0 1em; color: #fff; font-family: Arial, Helvetica, sans-serif;}
+	.email-subscribe .email-ipt:focus { box-shadow:0 0 8px rgba(255, 255, 255, .6);}
+	.email-subscribe .email-ipt::-webkit-input-placeholder { color: #9ca1a6;}
+	.email-subscribe .email-btn { width: 16%; min-width: 46px;cursor: pointer; border: none; color: #fff; font-weight: 400; background-color: #848484; border-radius: 0 4px 4px 0; height: 2.3em;}
+	.email-subscribe .email-btn:active { background-color: #69c72b;}
+
+	.foot-btns-box { color: #fff; opacity: .7; }
+	.foot-btns-box .btn-item { padding: 10px .3rem;}
+	.foot-btns-box i,
+	.foot-contact-box i { display: inline-block; vertical-align: middle; width: 1.429em; height: 1.429em; background-position: center center; background-repeat: no-repeat; background-size: contain; margin-right: .5em;}
+	.foot-btns-box span,
+	.foot-contact-box em,
+	.foot-btns-box .btn-item,
+	.foot-contact-box .ctt-item { display: inline-block; vertical-align: middle;}
+	.foot-btns-box .btn-item + .btn-item { margin-left: 10%;}
+	.foot-contact-box { color: #fff; opacity: .3; font-family: Arial, Helvetica, sans-serif; margin-top: 4%; text-align: left; padding: 0 4%; font-size: 12px; line-height: 1.5;}
+	.foot-contact-box .ctt-item { padding: 10px .2rem;}
+
+	.foot-copy-box {  color: #fff; margin-top: 4%;  text-align: left; padding: 0 4%; font-size: 12px; line-height: 1.5;}
+	.foot-copy-box p { margin-bottom: 5px;}
+	.foot-copy-box p:last-child { margin-bottom: 0;}
+	.foot-copy-box .text {  opacity: .3; }
+	.foot-copy-box a { opacity: .6;}
+	.page-footer .ico-wx { background-image: url(https://www.iresearch.com.cn/m/images/ico_wx.png)}
+	.page-footer .ico-wb { background-image: url(https://www.iresearch.com.cn/m/images/ico_wb.png)}
+	.page-footer .ico-pho { background-image: url(https://www.iresearch.com.cn/m/images/ico_pho.png)}
+	.page-footer .ico-mail { background-image: url(https://www.iresearch.com.cn/m/images/ico_mail.png)}
+
+
+	/* 二维码 */
+	#IR-code-pop { position: fixed; z-index: 850; left: 0; right: 0; top: 50%; margin: auto;-webkit-transform: translate(0,-50%);transform: translate(0,-50%); display: none;}
+	#IR-code-pop.f-open { display: block;}
+	#IR-code-pop .code-pic { margin: 0 15%; text-align: center;}
+	#IR-code-pop .code-pic img { width: 400px; max-width: 100%;}
+	#IR-code-pop .code-text { color: #fff; font-size: 16px; text-align: center; margin-top: 30px; line-height: 1.7;}
+	#IR-code-pop .code-text p:last-child { margin-bottom: 0;}
+
+	#page-mask {
+		position: fixed;
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		z-index: 800;
+		background-color: rgba(0, 0, 0, .85);
+		visibility: hidden;
+		opacity: 0;
+		transition: all 300ms;
+	}
+	#page-mask.f-open {
+		visibility: visible;
+		opacity: 1;
+	}
+	#page-mask .u-btn-close {
+		position: absolute;
+		right: 10px;
+		top: 55px;
+		/* display: none; */
+	}
+	.u-btn-close { background-color: transparent; border: 0; cursor: pointer; padding: 8px;outline: none!important;-webkit-appearance: none;}
+	.u-ico-close { display: inline-block; position: relative; vertical-align: middle; width: 24px; height: 24px;}
+	.u-ico-close::before,
+	.u-ico-close::after {
+		content: '';
+		position: absolute;
+		width: 28px; height: 3px; background-color: #fff; border-radius: 10px; left: -2px; top: 0; right: 0; bottom: 0; margin: auto;
+		transform: rotate(45deg);
+	}
+	.u-ico-close::after {
+		transform: rotate(-45deg);
+	}
+	
+	@media screen and (max-width: 979px){
+		#page-ft { display: block;}
+		.deviceTypeisMobile #page-ft { display: none;}
+		#alert-warp {
+			width: 70%;
+			left: 15%;
+			top: 20%;
+			margin-left:0
+		}
+		#topcontrol .m-up li.top .u-but { background:#fff;}
+		#topcontrol .m-up li.top .u-but::before,
+        #topcontrol .m-up li.top .u-but::after {
+            content: '';
+            position: absolute;
+            width: 15px; height: 3px; background-color: #9a9a9a; border-radius: 10px; left: 16px; top: -12px; right: 0; bottom: 0; margin: auto;transform: rotate(45deg); transform-origin: 0 0;
+        }
+        #topcontrol .m-up li.top .u-but::after {transform: rotate(-45deg) translateX(-100%);}
+		#ire-head .ire-nav-more-btn .icon-bar { width: 22px;}
+		#ire-head .ire-nav-more-btn .icon-bar,
+		.ire-icon-search::after { height: 2px }
+		.ire-icon-search::before { border-width: 2px;}
+		#ire-head .ire-nav-more-btn .icon-bar + .icon-bar {
+			margin-top: 5px;
+		}
+	}
+</style>
+<div class="g-ft" style=" width:100%; overflow:hidden;">
+    <div class="g-ft-t">
+        <div class="g-in">
+          <div class="g-list">
+            <ul class="list-box f-cb">
+              <li class="list m-ft-logo">
+                <h3><span class="u-icon u-icon-ft-i1"><i></i></span>艾瑞网</h3>
+                <p>艾瑞网是艾瑞集团旗下新经济门户网站，为用户提供互联网数据资讯聚合平台。</p>
+              </li>
+              <li class="list m-link">
+                <h3><span class="u-icon u-icon-ft-i2"><i></i></span>快速导航</h3>
+                <ol class="f-cb">
+                  <li><a target="_blank" href="//news.iresearch.cn/">互联网+</a></li>
+                  <!-- <li><a target="_blank" href="//report.iresearch.cn/">报告</a></li>
+                  <li><a target="_blank" href="//start.iresearch.cn/">创投</a></li>
+                  <li><a target="_blank" href="//column.iresearch.cn/">专栏</a></li>
+                   -->
+                  <li><a target="_blank" href="//a.iresearch.cn/">营销</a></li>
+                  <li><a target="_blank" href="//data.iresearch.cn/company/">行业库</a></li>
+                  <li><a target="_blank" href="//news.iresearch.cn/zt/">专题</a></li>
+                  <li><a target="_blank" href="//news.iresearch.cn/pics/">图文资讯</a></li>
+
+
+
+                <!--  <li><a href="http://data.iresearch.cn/ppt/">资料下载</a></li>-->
+                 <!--  <li><a target="_blank" href="http://news.iresearch.cn/">互联网</a></li>
+                    <li><a target="_blank" href="http://news.iresearch.cn/index_20150907.shtml">移动互联网</a></li>
+                  <li><a target="_blank" href="http://news.iresearch.cn/index_20150907.shtml">电子商务</a></li>
+                  <li><a target="_blank" href="http://news.iresearch.cn/index_20150907.shtml">网络游戏</a></li>-->
+
+                 <!-- <li><a href="http://www.iresearch.cn/about/map.shtml">站点地图>></a></li>-->
+                 <!-- <li><a href="http://www.iresearch.cn/about/link.shtml">友情链接</a></li>-->
+                </ol>
+              </li>
+              <li class="list m-partner">
+                <h3><span class="u-icon u-icon-ft-i3"><i></i></span>合作伙伴</h3>
+                <ol class="f-cb">
+
+                  <li class="partner-11"><a href="https://weibo.com/" target="_blank" title="新浪微博"><img src="/include/public/images/hb_logo11.png"/></a></li>
+                  <li class="partner-12"><a href="http://www.sohu.com/" target="_blank" title="搜狐"><img src="/include/public/images/hb_logo12.png"/></a></li>
+                <!--<li class="partner-5"><a href="http://www.adsit.cn/" target="_blank" title="随视传媒"><img src="/include/public/images/hb_logo05.png"/></a></li>-->
+                <!-- <li class="partner-1"><a href="http://www.bitauto.com/" target="_blank" title="易车网"><img src="/include/public/images/hb_logo01.png"/></a></li> -->
+                <li class="partner-4"><a href="http://www.yoyi.com.cn/" target="_blank" title="悠易互通"><img src="/include/public/images/hb_logo04.png"/></a></li>
+                <!-- <li class="partner-2"><a href="http://www.114la.com/" target="_blank" title="114啦"><img src="/include/public/images/hb_logo02.png"/></a></li> -->
+                <li class="partner-6"><a href="http://www.37.com/" target="_blank" title="37游戏"><img src="/include/public/images/hb_logo06.png"></a></li>
+
+                </ol>
+              </li>
+              <li class="list m-contactUs">
+                <div class="ewm-box f-cb">
+                	<span class="row row1"><img alt="官方微信" src="/include/public/images/irui_ewm.jpg"><br><strong>官方微信</strong></span>
+                    <span class="row row2"><img alr="新浪微博" src="/include/public/images/weibo_ewm.jpg"><br><strong>新浪微博</strong></span>
+                </div>
+                <!--<dl class="mail f-cb">
+                  <dt>文章投稿</dt>
+                  <dd>tougao@iresearch.com.cn</dd>
+                </dl>-->
+                <dl class="sub">
+                  <dt>邮件订阅</dt>
+                  <dd>第一时间获取最新行业数据、研究成果、产业报告、活动峰会等信息。</dd>
+                </dl>
+                <div class="m-ipt-sub">
+                    <input class="u-ipt" type="text" id="SubEmail" placeholder="Email">
+                    <button class="u-btn f-tib" onclick="Subscribe('SubEmail');" type="button">提交</button>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    <div class="g-ft-b f-tac">
+        <div class="g-in">
+          <div class="m-foot" style=" margin:0 -15px;">
+
+            <span class="ft-nav"> &nbsp&nbsp&nbsp&nbsp
+                <a target="_blank" href="//www.iresearch.cn/about/about_index.shtml">关于艾瑞</a>|
+                <a target="_blank" href="//www.iresearch.cn/about/about_system.shtml">业务体系</a>|
+                <a target="_blank" href="//www.iresearch.com.cn/about/job.shtml">加入艾瑞</a>|
+                <a target="_blank" href="//www.iresearch.cn/about/about_state.shtml">服务声明</a>|
+                <a target="_blank" href="//www.iresearch.cn/about/about_feedback.shtml">信息反馈</a>|
+                <a target="_blank" href="//www.iresearch.cn/about/about_contact.shtml?from=iresearch_web">联系我们</a>|
+                <a target="_blank" href="//www.iresearch.cn/about/about_sponsor.shtml">广告赞助</a>|
+                <a target="_blank" href="//www.iresearch.cn/about/about_link.shtml">友情链接</a>
+              </span>
+              <p >
+                <SCRIPT language="javascript">
+
+	function initArray()
+	 {
+	  for(i=0;i<initArray.arguments.length;i++)
+	  this[i]=initArray.arguments[i];
+	 }
+	 today=new Date();
+	function getFullYear(d)
+	{
+	  yr=d.getYear();if(yr<1000)
+	  yr+=1900;return yr;}
+	  document.write(""+"2002 - "+getFullYear(today));
+
+	</SCRIPT> Copyright&copy;
+              <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010402000581" style="color:#7e7e7e; margin-right:12px;"><img style="margin-right:5px; margin-top:-2px;" src="/include/images/record_icon.png"/>沪公网安备 31010402000581号</a><a target="_blank" href="http://www.beian.miit.gov.cn/publish/query/indexFirst.action" style="color:#7e7e7e; margin-right:12px;">沪ICP备15021772号-10</a>
+              <a href="http://218.242.124.22:8081/businessCheck/verifKey.do?showType=extShow&serial=9031000020160705152237000001015787-SAIC_SHOW_310000-gswonderswsupport20140815153006062&signData=MEYCIQD57BrbviWtR2eNQ6jgRB1Q55xgi4YHJcYdreE/zglqvAIhAMQ1RuKMWi97I3lu01+XT4wi4sICpNa6RyqIgjPPJjwb" target="_blank"><img height="20" src="/include/public/images/beian2017.png" alt=""></a>
+</p>
+          </div>
+          <!--<div class="beian">
+            <a href="/include/public/images/wscfyd.png" target="_blank" rel="nofollow"><img src="/include/public/images/wscfy.png"></a>
+            <a logo_size="124x47" logo_type="business" href="http://www.anquan.org" ><script src="https://static.anquan.org/static/outer/js/aq_auth.js"></script></a>
+            <a href="https://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&amp;entyId=dov73ne26zbqq0iswy6lf15bg0p8x4noya" style="background:#f3f3f3;"><img style="margin: 3px;height: 41px;" src="/include/public/images/shanghai.gif" border="0"></a>
+            <a href="http://www.zx110.org/picp/?sn=310104031200" target="_blank"><img src="/include/public/images/beian_airuiwang.png"></a>
+
+          </div>-->
+        </div>
+    </div>
+</div>
+
+<div id="page-mask" class="closeBtn"><button class="u-btn-close idCode"><i class="u-ico-close"></i></button></div>
+<div id="IR-code-pop" class="maxWidth">
+	<div class="code-pic"><img src="https://www.iresearch.cn/public/images/ir_code.png" alt=""></div>
+	<div class="code-text">
+		<p>扫一扫，或长按识别二维码</p>
+		<p>关注艾瑞网官方微信公众号</p>
+	</div>
+</div>
+
+<div id="page-ft">
+	<div class="page-footer">
+		<!-- <div class="foot-logo"><img width="24%" src="https://www.iresearch.cn/public/images/logo_fb2.png" alt="艾瑞网"></div> -->
+		<div class="foot-btns-box">
+			<a class="btn-item" href="javascript:;" id="btnWx"><i class="ico-wx"></i><span>微信公众号</span></a>
+			<a class="btn-item" href="http://weibo.com/iresearch21cn"><i class="ico-wb"></i><span>新浪微博</span></a>
+		</div>
+		
+		<div class="foot-hr"></div>
+
+		<div class="email-subscribe">
+			<div class="email-subscribe-hd"><span>iResearch Today</span><em>免费订阅艾瑞每日邮件</em></div>
+			<div class="email-subscribe-bd">
+				<input id="SubEmail2" class="email-ipt" type="text" placeholder="Email">
+				<button class="email-btn" onclick="Subscribe('SubEmail2');">订 阅</button>
+			</div>
+		</div>
+		
+		<!-- <div class="foot-link">
+			<a class="item" href="#">关于艾瑞</a>
+			<a class="item" href="#">服务声明</a>
+			<a class="item" href="#">信息反馈</a>
+			<a class="item" href="#">联系我们</a>
+		</div> -->
+		<div class="foot-contact-box">
+			<p>
+				电话：<a href="tel:4000262099">400-026-2099</a> <br>
+				邮箱：<a href="mailto:ask@iresearch.com.cn">ask@iresearch.com.cn</a>
+			</p>
+		</div>
+		<div class="foot-copy-box">
+			<p>
+				<span class="text">2002 - <span class="CopyrightEndDate">
+				<SCRIPT language="javascript">
+	var today=new Date();
+	function getFullYear2(d){
+	  yr=d.getYear();if(yr<1000)
+	  yr+=1900;return yr;
+	}
+	document.write(getFullYear2(today));
+	</SCRIPT></span> Copyright&copy;&nbsp;&nbsp;&nbsp;上海艾瑞市场咨询股份有限公司</span> <br>
+				<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010402000581">沪公网安备 31010402000581号</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.beian.miit.gov.cn/publish/query/indexFirst.action">沪ICP备15021772号-10</a>
+			</p>
+		</div>
+
+	</div>
+</div>
+		
+<div id="alert-warp">
+    <div id="alert-msg" class="modal-cont"></div>
+    <div id="alert-btn" class="modal-btns"></div>
+</div>
+
+
+ <!-- 长按识别二维码 -->
+ <div class="g-codesAPP" style="display:none;">
+    <div class="m-codesAPP">
+        <!-- <div class="m-codesAPP-tit">长按识别二维码 下载相关艾瑞产品</div> -->
+        <!-- <div class="m-codesAPP-arr"><img src="/include/public/images/code/arr2x.png?v1" alt=""></div> -->
+        <div class="m-codesAPP-code">
+
+
+            <div class="m-codesAPP-code-app">
+                <div class="name"><span>艾瑞研究院APP扫码下载</span></div>
+                <div class="codePic"><img src="/include/public/images/code/codeAPP2x.png?v2" alt=""></div>
+            </div>
+
+            <!-- <div class="m-codesAPP-code-wx">
+                <div class="name"><span>艾瑞小程序</span></div>
+                <div class="codePic"><img src="/include/public/images/code/codeWx2x.png?v1" alt=""></div>
+            </div> -->
+
+
+        </div>
+    </div>
+</div>
+<!-- 长按识别二维码 end-->
+
+<template id="mWxfollow">
+	<style>
+		.m-wxfollow {
+			display: flex;
+			align-items: stretch;
+			overflow: hidden;
+			font-size: 16px;
+		}
+		.m-wxfollow .code {
+			margin-right: 10px;
+		}
+		.m-wxfollow .img-code { width: 100px;}
+		.m-wxfollow .info {
+			position: relative;
+			flex: 1;
+			border: solid 1px;
+			border-left: 0;
+			color: #1e9fd2;
+			padding-top: .1px;
+			padding-left: 1.5em;
+		}
+		.m-wxfollow .info::after {
+			content: '';
+			position: absolute;
+			bottom: -1px; right: -1px;
+			width: 38px; height: 24px;
+			background-color: #fff;
+			border-top: solid 1px;
+			transform-origin: 100% 0;
+			transform:rotate(-45deg);
+		}
+		.m-wxfollow .tit { font-size: 1.5em; line-height: 1; margin-top: .85em;}
+		.m-wxfollow .desc { font-size: 1em; color: #333; margin-top: .9em; line-height: 1.3;}
+		.m-wxfollow .icon-logo { display: none;}
+		@media screen and (max-width: 979px){
+			.m-wxfollow {
+				display: none;
+			}
+		}
+		.g-article .m-ad .u-img {
+			width: 100%;
+			max-width: 640px;
+		}
+	</style>
+	<div class="f-mt-auto f-mb-auto m-wxfollow">
+		<div class="code">
+			<img class="img-code" src="https://www.iresearch.cn/public/images/img-code-1.jpg" alt="艾瑞网公众号" title="艾瑞网公众号">
+		</div>
+		<div class="info">
+			<div class="tit">艾瑞网公众号</div>
+			<div class="desc">看资讯、查报告、搜数据 （搜索iresearch21cn或扫描二维码关注）</div>
+			<img class="icon-logo" src="https://www.iresearch.cn/public/images/icon-logo-1.png" alt="艾瑞网">
+		</div>
+	</div>
+</template>
+
+
+<script src="/include/js/jquery.cookies.min.js"></script>
+
+<!-- 通用页面定义 -->
+<script src="/include/public/js/base.js?122804" type="text/javascript"></script>
+<script src="/include/js/common.js"></script>
+<script src="/include/js/irsuser.js"></script>
+<script src="/include/public/js/sharepic.js?20200225"></script>
+
+<script>
+	//底部
+	$(function(){
+		function toggleCodeState(){
+			$('#page-mask').toggleClass('f-open');
+			$('#IR-code-pop').toggleClass('f-open')
+		}
+		$('#btnWx').on('click',toggleCodeState);
+		$('#page-mask').on('click',toggleCodeState);
+	})
+</script>
+
+<script>
+	$(function(){
+		var mWxfollow = $('#mWxfollow').html();
+		$(".g-article-share").after(mWxfollow);
+	})
+</script>
+
+<script>
+
+
+    $(function(){
+
+        if(getUrl ('deviceType') == 'mobile'){
+        var href = $('.info-down .look a').attr('href');
+        $('.info-down .look a').attr('href',href+'&deviceType=mobile');
+
+        }
+    })
+</script>
+
+<script type="text/javascript">
+//top导航条悬浮
+    /*
+	function navFixed(){
+		var $nav = $('.g-nav-user');
+		var $navTop = $nav.offset().top;
+		var _scrolTop = $(window).scrollTop();
+
+		function Zcur(){
+			if(_scrolTop > $navTop){
+				$nav.addClass('nav-fixed');
+			}else{
+				$nav.removeClass('nav-fixed');
+			}
+		}
+		$(window).scroll(function(){
+			_scrolTop = $(this).scrollTop();
+			Zcur();
+		});
+		Zcur();
+	}
+
+$(function(){
+	navFixed();
+});*/
+</script>
+
+
+
+<script src="/include/public/js/wxqrcode.js" type="text/javascript"></script>
+<script type="text/javascript">
+    var codeHtml =[
+        '<i>微信</i>',
+        '<div class="code-box-wrap">',
+        '    <div class="tit">分享到微信朋友圈</div>',
+        '    <div class="code-cont-wrap"></div>',
+        '    <div class="tips">打开微信，点击底部的 "发现"，使用 "扫一扫" 即可将网页分享到我的朋友圈。</div>',
+        '</div>'
+    ].join("");
+    $('.u-icon-wx2').html(codeHtml);
+
+    var codeSrc = module.exports.createQrCodeImg(window.location.href,{'size':200});
+    var $weixin_btn = $('.code-cont-wrap');
+    if($weixin_btn.length > 0){
+        var $codeimg = $('<img class="code">').attr('src',codeSrc);
+        $weixin_btn.append($codeimg);
+    }
+</script>
+
+
+<!-- 百度统计 -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fc33e4c1e69eca76a2e522c20e59773f6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script src="/include/public/js/load.js?20200729" type="text/javascript"></script>
+  <!-- 页面底部 end-->
+</div>
+<!-- 返回顶部 -->
+<div id="topcontrol">
+  <div class="m-up">
+    <ul>
+        <!--
+      <li class="message new"> <span class="u-but" title="信息">信息<i>2</i></span>
+        <div class="m-bd">
+          <dl>
+            <dt><i></i><a href="#">UBER中国投资方暗战 行业酝酿巨变</a></dt>
+            <dd>
+              <p>UBER高管、高管百度及各投资方对UBER中国估值,股权比例存争议</p>
+              <div class="ft"><a href="#">查看</a><i>&times;</i></div>
+            </dd>
+          </dl>
+          <dl>
+            <dt><i></i><a href="#">UBER中国投资方暗战 行业酝酿巨变</a></dt>
+            <dd>
+              <p>UBER高管、高管百度及各投资方对UBER中国估值,股权比例存争议</p>
+              <div class="ft"><a href="#">查看</a><i>&times;</i></div>
+            </dd>
+          </dl>
+        </div>
+      </li>-->
+      <li class="weixin"> <span class="u-but" title="微信">微信</span>
+        <div class="m-bd">
+          <div class="qr-box"><img src="/include/public/images/irui_ewm.jpg" alt=""></div>
+        </div>
+      </li>
+        <li class="contribute" title="改版反馈">
+            <span class="u-but"><a href="#" target="_blank">改版反馈</a></span>
+            <div class="m-bd">
+                <div class="tg-box">
+                    <p>我们有直面错误的勇气,点击按钮即可发言。</p>
+                    <a class="link" target="_blank" href="http://www.iresearch.cn/about/about_feedback.shtml">信息反馈</a>
+                    <p>
+                        您也可以邮件：<br>
+                        yangkun@iresearch.com.cn
+                    </p>
+                </div>
+            </div>
+        </li>
+      <li class="top"> <span class="u-but" title="返回顶部">返回顶部</span> </li>
+      <li class="close">
+        <div class="u-but" title="关闭">关闭</div>
+      </li>
+    </ul>
+  </div>
+</div>
+<!-- 页面右下角点击返回到顶部插件 -->
+<script src="/include/public/js/scrolltopcontrol.js" type="text/javascript"></script>
+
+<!-- 返回顶部 end-->
+<!-- 焦点图插件 -->
+<script src="/include/public/js/jquery.flexslider-min.js" type="text/javascript"></script>
+<script type="text/javascript">
+//第一屏右侧边栏焦点图
+$(function(){
+    $('.m-slide').flexslider({
+        animation: "slide",
+        slideshowSpeed: 4000, 
+        controlNav: true,
+        pauseOnHover: true, 
+        directionNav: true
+    }).hover(function(){
+        $('.flex-direction-nav').stop().fadeIn("slow");
+    },function(){
+        $('.flex-direction-nav').stop().fadeOut(200);
+    });
+//loadhtml({filename:'special399',selstr:'#tab-list>div:visible ul'});
+});
+
+//人物访谈自动轮播
+/*
+$(function(){
+var slideUlIndex = 0;
+var $slideUl = $('.m-video ul');
+var $slideLi = $('li',$slideUl);
+var Li_length = $slideLi.length;
+var Li_width = $slideLi.width();
+var newLilength = Li_length+1;
+var Set; 
+
+if(newLilength < 4){
+	newLilength = 2;
+}
+$slideUl.width(newLilength*50+'%').hover(function(){
+	stopCount();
+},function(){
+	timedCount();
+});
+
+timedCount();
+
+function slideUl(){
+	var $firstLi = $slideUl.find('li').first();
+		slideUlIndex++;
+		if(slideUlIndex > Li_length-1){
+			slideUlIndex = 0;
+		}
+	$slideUl.append($firstLi.clone());
+	$slideUl.css({
+		'transition-duration': '0.6s',
+		'transform': 'translate3d(-'+Li_width+'px, 0, 0)'
+	});
+	setTimeout(function(){
+		$slideUl.css({
+			'transition-duration': '0s',
+			'transform': 'translate3d(0, 0, 0)'
+		});
+		$firstLi.remove();
+	},600);
+}
+*/
+function timedCount(){
+	if(Li_length>2){
+		Set = setInterval(slideUl, 3000); 
+	}
+}
+
+function stopCount(){
+	clearTimeout(Set);
+}
+
+</script>
+</body>
+</html>
