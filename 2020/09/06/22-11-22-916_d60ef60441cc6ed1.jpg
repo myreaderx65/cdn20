@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+
+<!--[if IE 7]><html class="no-js is-ie7 lt-ie10 lt-ie9 lt-ie8"><![endif]-->
+<!--[if IE 8]><html class="no-js is-ie8 lt-ie10 lt-ie9"><![endif]-->
+<!--[if IE 9]><html class="no-js is-ie9 lt-ie10"><![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js"><!--<![endif]-->
+
+<head>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KV26XVV');</script>
+    <!-- End Google Tag Manager -->
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>Footballguys: 404 Page Not Found</title>
+
+    <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+
+    
+	<meta name="twitter:widgets:theme" content="light">
+	<meta name="twitter:widgets:link-color" content="#55acee">
+	<meta name="twitter:widgets:border-color" content="#55acee">
+
+    <!-- CSS -->
+<link rel="stylesheet" href="https://cdn.footballguys.com/site/2013/css-ssl/normalize.css">
+<link rel="stylesheet" href="https://cdn.footballguys.com/site/2013/css-ssl/main-v05.css">
+<link rel="stylesheet" href="https://cdn.footballguys.com/site/2013/css-ssl/main-with-sass-v21.css">
+<link rel="stylesheet" href="https://cdn.footballguys.com/site/2013/css-ssl/genericons.css">
+<link rel="stylesheet" href="https://cdn.footballguys.com/site/2013/css-ssl/extra.css">
+<link rel="stylesheet" href="https://cdn.footballguys.com/site/2013/css-ssl/fixedhelpbutton.css">
+<link rel="stylesheet" href="https://cdn.footballguys.com/site/2013/css-ssl/print.css" type="text/css" media="print">
+<link rel="shortcut icon" href="https://cdn.footballguys.com/site/2013/img/favicon.ico?v=2\" /><script src="https://cdn.footballguys.com/site/2013/js/modernizr-2.6.2.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+<script src="https://www.footballguys.com/2013templates/js/jquery.autocomplete.min.js"></script>
+<script src="https://cdn.footballguys.com/site/2013/js/respond.min.js"></script>
+<script src="https://cdn.footballguys.com/site/2013/js/main.js"></script>
+<script src="https://www.footballguys.com/2013templates/js/search13.js"></script>
+<script src="https://www.footballguys.com/2013templates/js/jQuery.XDomainRequest.js"></script>
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/4345355/LeftNav_190x190_Bottom', [190, 190], 'div-gpt-ad-1369346143299-0').addService(googletag.pubads());
+googletag.defineSlot('/4345355/LeftNav_190x190_Top', [190, 190], 'div-gpt-ad-1369346143299-1').addService(googletag.pubads());
+googletag.defineSlot('/4345355/Main-Frontpage-160x600-Skyscraper', [160, 600], 'div-gpt-ad-1369346143299-2').addService(googletag.pubads());
+googletag.defineSlot('/4345355/Main-Frontpage-300x250-Rectangle', [300, 250], 'div-gpt-ad-1369346143299-3').addService(googletag.pubads());
+googletag.defineSlot('/4345355/Main-Frontpage-728x90-Leaderboard', [728, 90], 'div-gpt-ad-1369346143299-4').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+                <meta property='og:site_name' content='Footballguys.com' />
+                <meta property='og:title' content='Footballguys: 404 Page Not Found' />
+                <meta property='og:description' content='Footballguys: 404 Page Not Found' />
+                <meta property='og:image' content='https://cdn.footballguys.com/site/2013/content-img/johnny-manziel-2014-nfl-draft.jpg' />
+                <meta name='twitter:card' content='summary_large_image'>
+                <meta name='twitter:site' content='@Football_Guys'>
+                <meta name='twitter:creator' content='@Football_Guys'>
+                <meta name='twitter:title' content='Footballguys: 404 Page Not Found'>
+                <meta name='twitter:description' content='Footballguys: 404 Page Not Found'>
+                <meta name='twitter:image' content='https://cdn.footballguys.com/site/2013/content-img/johnny-manziel-2014-nfl-draft.jpg'>
+            
+    <!-- Facebook Pixel Code -->
+    <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window, document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '295249791034394');
+      fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=295249791034394&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code -->
+
+</head>
+
+<body class='article'>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KV26XVV"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    
+        <!-- BEGIN page contents -->
+        <div id='page-contents' class='clearfix buy-now-page-contents page-not-found'>
+            
+<script src="https://www.footballguys.com/2013templates-ssl/js/header.js"></script>
+<div class='front-door simple-header-hide-buttons'>
+    <div class='simple-header'>
+    <div class="simple-header-logo"><a href='https://footballguys.com/'>
+        <img src="https://cdn.footballguys.com/site/2013/content-img/homepage/black-eyed-joe.svg" alt="Footballguys Black Eyed Joe Logo">
+        <div class='warsaw-gothic warsaw-gothic-medium'>
+            <p>FOOTBALLGUYS</p>
+        </div>
+    </a></div>
+    <div class="simple-header-hamburger-menu">
+        <div class="simple-header-hamburger-menu-button front-door-menu-button hamburger-menu-button right-hamburger-menu-button">
+            <p>Menu</p>
+            <span class="fbg-icon fbgicons1 fbgicons1-hamburger"></span>
+        </div>
+        <div class="hidden simple-header-hamburger-menu-dropdown right-hamburger-menu-dropdown">
+            <a href="https://footballguys.com/buy-now.php#plans-and-pricing">View Plans and Pricing</a>
+            <a href='https://www.footballguys.com/more-details.php'>Become a FREE Insider</a>            <a href="https://footballguys.com/">View Our Main Menu</a>
+                        <a href="https://subscribers.footballguys.com/apps/draftlist.php?t=1&ppr=1">See Our Latest Rankings</a>
+            <a href="https://footballguys.com/draft-kit.php">Check Out Our Draft Kit</a>
+            <a href="https://draft.footballguys.com">Try Our Draft Dominator</a>
+            <a href="https://footballguys.com/">50,000+ Pages of Content</a>
+            <a href="https://footballguys.com/">Visit Our Home Page</a>
+        </div>
+    </div>
+    <div class='simple-header-right'>        <div class='simple-header-right-just-buttons login-vis-swap buttons'>
+                                <div class='log-in-button button secondary-cta-button'>
+                		<p>Log In</p>
+                    </div>
+                        <div class='button primary-cta-button'>
+        		<a href='https://footballguys.com/buy-now.php'>Join Now</a>
+            </div>
+        </div>
+        <div class='simple-header-right-login-fields hidden login-vis-swap'>
+			<form method='post' action='https://subscribers.footballguys.com/amember/login' method=POST id='member-login'>
+				<div class='login-fields buttons'>
+					<input name='amember_redirect_url' type='hidden' value="http://footballguys.com/404.php">
+					<input type='submit' value='Log In' class='button secondary-cta-button'>
+                    <div class='button primary-cta-button'>
+                		<a href='https://footballguys.com/buy-now.php'>Join Now</a>
+                    </div>
+                    <div class='login-fields-dropdown'>
+                        <div class='log-in-here'>
+                            <p>Already have a Footballguys account? Log in below:</p>
+                        </div>
+    					<input name='amember_login' type='text' placeholder='Login or Email' class='username login-field'>
+    					<input name='amember_pass' type='password' placeholder='Password' class='password login-field'>
+    					<input type='submit' value='Log In' class='button secondary-cta-button mini-button'>
+                        <div class='forgot-password'>
+                            <a href='http://subscribers.footballguys.com/whoami.php'>I forgot my password</a>
+                        </div>
+                    </div>
+				</div>
+			</form>
+        </div>
+    </div>
+</div>
+    <div class="front-door-top-blocks">
+        <div class="sales-funnel-above-fold sales-funnel-block">
+            <div class="above-fold-text">
+                <div class="warsaw-gothic warsaw-gothic-large">
+                    <p class="above-fold-main-tagline">OOPS!<br>THAT DIDN'T<br>GO WELL</p>
+                </div>
+                <div class="warsaw-gothic warsaw-gothic-small">
+                    <p class="above-fold-secondary-tagline">THE PAGE YOU'RE TRYING<br>TO ACCESS DOESN'T EXIST</p>
+                </div>
+                <div class="buttons">
+                    <div class="button primary-cta-button">
+                		<a href="https://footballguys.com/">Visit the Footballguys<br>Home Page</a>
+                    </div>
+                </div>
+            </div>
+            <img src="https://cdn.footballguys.com/site/2013/content-img/johnny-manziel-2014-nfl-draft.jpg" alt="Johnny Manziel selected by the Cleveland Browns in the 2014 NFL Draft">
+        </div>
+    </div>
+</div>
+
+            
+        </div>
+        <!-- END page contents -->
+
+        <!-- JS -->
+
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2062495-13', 'auto');
+  !function(){var i=1,t=1,n="_sl_order",e=window;ga(function(o){var a=o.get("buildHitTask");o.set("buildHitTask",function(d){e[n]=void 0===e[n]?0:e[n]+1;var s=["sl="+t,"u="+(o.get("clientId")||o.get('userId')),"t="+((new Date).getTime()+e[n])].join("&");d.set("dimension"+i,s),a(d)})})}();
+  ga('send', 'pageview');
+
+</script>
+    </body>
+</html>
