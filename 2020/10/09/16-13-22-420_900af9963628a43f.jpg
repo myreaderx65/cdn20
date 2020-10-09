@@ -1,0 +1,1724 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta name="Content-Type" content="text/html;charset=utf-8" />
+<meta name="Referrer" content="unsafe-url" />
+<meta content="True" name="HandheldFriendly" />
+<meta name="theme-color" content="#333344" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="detectify-verification" content="d0264f228155c7a1f72c3d91c17ce8fb" />
+<meta name="p:domain_verify" content="b87e3b55b409494aab88c1610b05a5f0" />
+<meta name="alexaVerifyID" content="OFc8dmwZo7ttU4UCnDh1rKDtLlY" />
+<meta name="baidu-site-verification" content="D00WizvYyr" />
+<meta name="msvalidate.01" content="D9B08FEA08E3DA402BF07ABAB61D77DE" />
+<meta property="wb:webmaster" content="f2f4cb229bda06a4" />
+<meta name="google-site-verification" content="LM_cJR94XJIqcYJeOCscGVMWdaRUvmyz6cVOqkFplaU" />
+<title>碰到基础差的同事怎么办？ - V2EX</title>
+<link rel="dns-prefetch" href="https://static.v2ex.com/" />
+<link rel="dns-prefetch" href="https://cdn.v2ex.com/" />
+<link rel="dns-prefetch" href="https://i.v2ex.co/" />
+<link rel="dns-prefetch" href="https://www.google-analytics.com/" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/basic.css?v=3.9.8.5" />
+<link rel="stylesheet" type="text/css" media="screen" href="/static/dist/combo.css?v=3fecd12a59d327872f455789fbb86ae3" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/desktop.css?v=3.9.8.5" />
+<script>
+        const SITE_NIGHT = 0;
+    </script>
+<link rel="stylesheet" href="/static/css/tomorrow.css?v=3c006808236080a5d98ba4e64b8f323f" type="text/css" />
+<link rel="icon" sizes="192x192" href="/static/img/v2ex_192.png" />
+<link rel="shortcut icon" href="/static/img/icon_rayps_64.png" type="image/png" />
+<link rel="manifest" href="/manifest.webmanifest" />
+<script>
+        const MOBILE = false;
+    </script>
+<script src="/static/dist/combo.js?v=9872b7d18bd226831bebcf746168800e" type="text/javascript" defer></script>
+<meta name="description" content="职场话题 - @aijam - ## 一- 我：你把数据抓下来存 json 吧。- 他：json 是什么？- 我：。。。是一种存储数据的格式。你 google 下就知道了。-  [半个小时后] - 他：我 goo" />
+<link rel="canonical" href="https://www.v2ex.com/t/428008" />
+<meta name="robots" content="noindex, nofollow" />
+<meta property="og:locale" content="zh_CN" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="碰到基础差的同事怎么办？ - V2EX" />
+<meta property="og:description" content="职场话题 - @aijam - ## 一- 我：你把数据抓下来存 json 吧。- 他：json 是什么？- 我：。。。是一种存储数据的格式。你 google 下就知道了。-  [半个小时后] - 他：我 goo" />
+<meta property="og:url" content="https://www.v2ex.com/t/428008" />
+<meta property="og:site_name" content="V2EX" />
+<meta property="article:tag" content="career" />
+<meta property="article:section" content="职场话题" />
+<meta property="article:published_time" content="2018-02-02T08:19:47Z" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="职场话题 - @aijam - ## 一- 我：你把数据抓下来存 json 吧。- 他：json 是什么？- 我：。。。是一种存储数据的格式。你 google 下就知道了。-  [半个小时后] - 他：我 goo" />
+<meta name="twitter:title" content="碰到基础差的同事怎么办？ - V2EX" />
+<meta name="twitter:image" content="https:https://cdn.v2ex.com/avatar/3302/5eb2/202695_large.png?m=1479937197" />
+<meta name="twitter:site" content="@V2EX" />
+<meta name="twitter:creator" content="@V2EX" />
+<link rel="top" title="回到顶部" href="#">
+<link rel="preload" href="/api/nodes/s2.json" as="fetch">
+<link rel="next" title="Next Page" href="/t/428008?p=2" />
+<link rel="amphtml" href="https://www.v2ex.com/amp/t/428008" />
+<script type="text/javascript">
+        const topicId = 428008;
+        let once = "20493";
+
+		document.addEventListener("DOMContentLoaded", function(event) {
+            protectTraffic();
+
+            const observer = new IntersectionObserver(
+                ([e]) => e.target.toggleAttribute('stuck', e.intersectionRatio < 1),
+                {threshold: [1]}
+            );
+
+            observer.observe(document.getElementById('reply-box'));
+
+            
+            hljs.initHighlightingOnLoad();
+            
+
+            $('#Main').on('click', '.no, .ago', function () {
+                location.hash = $(this).parents('.cell').prop('id');
+            });
+
+            
+		});
+
+        
+        let csrfToken = false;
+        
+	</script>
+<script type="text/javascript">
+function format(tpl) {
+    var index = 1, items = arguments;
+    return (tpl || '').replace(/{(\w*)}/g, function(match, p1) {
+        return items[index++] || p1 || match;
+    });
+}
+function loadCSS(url, callback) {
+    return $('<link type="text/css" rel="stylesheet"/>')
+        .attr({ href: url })
+        .on('load', callback)
+        .appendTo(document.head);
+}
+function lazyGist(element) {
+    var $btn = $(element);
+    var $self = $(element).parent();
+    var $link = $self.find('a');
+    $btn.prop('disabled', 'disabled').text('Loading...');
+    $.getJSON(format('{}.json?callback=?', $link.prop('href').replace($link.prop('hash'), '')))
+        .done(function(data) {
+            loadCSS(data.stylesheet, function() {
+                $self.replaceWith(data.div);
+                $('.gist .gist-file .gist-meta a').filter(function() { return this.href === $link.prop('href'); }).parents('.gist-file').siblings().remove();
+            });
+        })
+        .fail(function() { $self.replaceWith($('<a>').attr('href', url).text(url)); });
+}
+</script>
+</head>
+<body>
+<div id="Top">
+<div class="content">
+<div class="site-nav">
+<a href="/" name="top" title="way to explore"><div id="Logo"></div></a>
+<div id="search-container">
+<input id="search" type="text" maxlength="128" autocomplete="off" tabindex="1">
+<div id="search-result" class="box"></div>
+</div>
+<div class="tools">
+<a href="/" class="top">首页</a>
+<a href="/signup" class="top">注册</a>
+<a href="/signin" class="top">登录</a>
+</div>
+</div>
+</div>
+</div>
+<div id="Wrapper">
+<div class="content">
+<div id="Leftbar"></div>
+<div id="Rightbar">
+<div class="sep20"></div>
+<div class="box">
+<div class="cell">
+<strong>V2EX = way to explore</strong>
+<div class="sep5"></div>
+<span class="fade">V2EX 是一个关于分享和探索的地方</span>
+</div>
+<div class="inner">
+<div class="sep5"></div>
+<div align="center"><a href="/signup" class="super normal button">现在注册</a>
+<div class="sep5"></div>
+<div class="sep10"></div>
+已注册用户请 &nbsp;<a href="/signin">登录</a></div>
+</div>
+</div>
+<div class="sep20"></div>
+<div class="box">
+<div class="inner">
+<div class="sidebar_units">
+</div>
+<style type="text/css">
+#Wrapper {
+background-color: #627077;
+background-image: url("/static/img/shadow_light.png"), url("//static.v2ex.com/bgs/pixels.png");
+background-position: 0 0, 0 0;
+background-repeat: repeat-x, repeat;
+}
+</style>
+</div>
+<div class="sidebar_compliance"><a href="/advertise" target="_blank">广告</a></div>
+</div>
+<div class="sep20"></div>
+<div class="box">
+<div class="inner" align="center">
+<a href="https://www.nowcoder.com/link/shezhao-v2ex" target="_blank"><img src="//cdn.v2ex.com/assets/sidebar/nowcoder_20201010.png" border="0" width="250" height="250" alt="牛客网" style="vertical-align: bottom;" /></a>
+</div>
+</div>
+
+<div class="sep20"></div>
+</div>
+<div id="Main">
+<div class="sep20"></div>
+<div class="box" style="border-bottom: 0px;">
+<div class="header"><div class="fr"><a href="/member/aijam"><img src="https://cdn.v2ex.com/avatar/3302/5eb2/202695_large.png?m=1479937197" class="avatar" border="0" align="default" alt="aijam" /></a></div>
+<a href="/">V2EX</a> <span class="chevron">&nbsp;›&nbsp;</span> <a href="/go/career">职场话题</a>
+<div class="sep10"></div>
+<h1>碰到基础差的同事怎么办？</h1>
+<div id="topic_428008_votes" class="votes">
+<a href="javascript:" onclick="upVoteTopic(428008);" class="vote"><li class="fa fa-chevron-up"></li> &nbsp;1</a> &nbsp;<a href="javascript:" onclick="downVoteTopic(428008);" class="vote"><li class="fa fa-chevron-down"></li></a></div> &nbsp; <small class="gray"><a href="/member/aijam">aijam</a> · 2018-02-02 16:19:47 +08:00 · 81284 次点击</small>
+</div>
+<div class="outdated">这是一个创建于 980 天前的主题，其中的信息可能已经有所发展或是发生改变。</div>
+<div class="cell">
+<div class="topic_content"><div class="markdown_body"><h2>一</h2>
+<ul>
+<li>我：你把数据抓下来存 json 吧。</li>
+<li>他：json 是什么？</li>
+<li>我：。。。是一种存储数据的格式。你 google 下就知道了。</li>
+<li>[半个小时后]</li>
+<li>他：我 google 了还是不知道啊。</li>
+<li>我：。。。你哪里不懂？</li>
+<li>他：我也不知道我哪里不懂，你给我说说呀。</li>
+<li>[我于是解释]</li>
+</ul>
+<h2>二</h2>
+<ul>
+<li>我：这条 export 的命令，是你在 shell 里把路径设置在一个环境变量里，然后运行的程序里面就能通过这个变量读取文件路径了。</li>
+<li>他：什么是 shell。</li>
+<li>我：。。。你可以理解成你看到的这个命令行，通过 shell 你可以发命令、启动程序。</li>
+<li>他：那我运行的程序怎么读取这个环境变量。</li>
+<li>我给他写了一个 shell script 演示可以 echo 出这个变量。</li>
+<li>我：懂了么？</li>
+<li>他：还是不太懂</li>
+<li>开始给他详细讲 shell、父子进程、export。</li>
+</ul>
+<h2>三</h2>
+<ul>
+<li>我：你可以看看 Flask 学 Web 后端的编程。</li>
+<li>[他看了 1 个多钟头]</li>
+<li>我：有没有一点看懂了？</li>
+<li>他：看不懂</li>
+<li>[我带开 Flask 主页上的代码开始给他解释]</li>
+<li>我：你这行先设置好 URL 的路径，用户浏览这个页面的时候，就会运行下面这个函数，函数返回结果给回用户。</li>
+<li>他：所以这个函数返回到哪里？</li>
+<li>我：。。。</li>
+<li>[于是开始解释浏览器 /服务器，request/response 的过程]</li>
+<li>他：懂了。</li>
+<li>我：比如 /index 你可以返回一个 HTML，/api 你可以返回一个 json 当 API 用。</li>
+<li>他：什么是 API ？</li>
+<li>我：一般的 URL 就是返回 HTML 用来显示在浏览器里的，API 是用来传输数据的，不拿来直接显示用。比如这个 /api 的 url。</li>
+<li>他：那这个 /api 和 API 没有关系么？</li>
+<li>我：/api 只是你设置的一个 url，你可以随便设置你喜欢的名字。</li>
+<li>他：那就是说和 API 是没关系的咯？</li>
+<li>我：可以这么说，主要是为了人类的看懂这个名字。</li>
+</ul>
+<p>类似的例子还有好多，话说他虽然不是学 cs 的，但也有一年编程经验，本科也是名校。
+感觉教的真的好累。</p>
+</div></div>
+</div>
+</div>
+<div class="sep20"></div>
+<div class="box">
+<div class="cell"><div class="fr" style="margin: -3px -5px 0px 0px;"><a href="/tag/API" class="tag"><li class="fa fa-tag"></li> API</a><a href="/tag/shell" class="tag"><li class="fa fa-tag"></li> shell</a><a href="/tag/url" class="tag"><li class="fa fa-tag"></li> url</a><a href="/tag/变量" class="tag"><li class="fa fa-tag"></li> 变量</a></div><span class="gray">192 条回复 &nbsp;<strong class="snow">•</strong> &nbsp;2018-02-11 19:30:50 +08:00</span>
+</div>
+<div class="cell" style="background-image: url('/static/img/shadow_light.png'); background-size: 20px 20px; background-repeat: repeat-x;">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="92%" align="left"><a href="?p=1" class="page_current">1</a> &nbsp;<a href="?p=2" class="page_normal">2</a> &nbsp; <input type="number" class="page_input" autocomplete="off" value="1" min="1" max="2" onkeydown="if (event.keyCode == 13)
+                    location.href = '?p=' + this.value" /></td>
+<td width="8%" align="right">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="50%" align="center" class="super normal button disable_now" style="border-right: none; border-top-right-radius: 0px; border-bottom-right-radius: 0px;">❮</td>
+<td width="50%" align="center" class="super normal_page_right button" style="border-top-left-radius: 0px; border-bottom-left-radius: 0px;" onclick="location.href='?p=2';" onmouseover="$(this).addClass('hover_now');" onmousedown="$(this).addClass('active_now');" onmouseleave="$(this).removeClass('hover_now'); $(this).removeClass('active_now');" title="下一页">❯</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289509" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/263faa862e2b1e3e508d03a5df3100d2?s=48&d=retro" class="avatar" border="0" align="default" alt="yangzhezjgs" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">1</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/yangzhezjgs" class="dark">yangzhezjgs</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:23:04 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">感觉不适合这个行业。。</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289511" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/d7394e6934dc355d13b04fb216026e00?s=48&d=retro" class="avatar" border="0" align="default" alt="subdued" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">2</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/subdued" class="dark">subdued</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:23:12 +08:00 via Android</span>
+<div class="sep5"></div>
+<div class="reply_content">真好。。。</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289528" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/c31e/c9d4/70498_normal.png?m=1413878148" class="avatar" border="0" align="default" alt="linKnowEasy" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">3</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/linKnowEasy" class="dark">linKnowEasy</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:26:05 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">一年的编程经验???</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289529" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/7349/f152/241788_normal.png?m=1540089344" class="avatar" border="0" align="default" alt="pandaaa" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">4</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/pandaaa" class="dark">pandaaa</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:26:51 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">一年？明显是水的</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289530" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/b8828d3c40fa177f2eb19ef5a3a25c1c?s=48&d=retro" class="avatar" border="0" align="default" alt="3a3Mp112" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">5</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/3a3Mp112" class="dark">3a3Mp112</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:27:03 +08:00</span> &nbsp; <span class="small fade"><img src="/static/img/heart_neue_red.png?v=16ec2dd0a880be6edda1e4a2e35754b3" width="14" align="absmiddle" alt="❤️" /> 4</span>
+<div class="sep5"></div>
+<div class="reply_content">？ 谁负责的招聘</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289533" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/b8828d3c40fa177f2eb19ef5a3a25c1c?s=48&d=retro" class="avatar" border="0" align="default" alt="3a3Mp112" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">6</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/3a3Mp112" class="dark">3a3Mp112</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:27:36 +08:00</span> &nbsp; <span class="small fade"><img src="/static/img/heart_neue_red.png?v=16ec2dd0a880be6edda1e4a2e35754b3" width="14" align="absmiddle" alt="❤️" /> 28</span>
+<div class="sep5"></div>
+<div class="reply_content">还是先说一下你们开的是什么薪资吧，避免喷错了。</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289534" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/5bae/bd08/222515_normal.png?m=1534386609" class="avatar" border="0" align="default" alt="nicolas0caser" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">7</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/nicolas0caser" class="dark">nicolas0caser</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:27:38 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">@<a href="/member/aijam">aijam</a> 如果此处，s/他 /她 /g，可能感觉应该会不一样，手动逃：)</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289535" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/11db/11b4/97085_normal.png?m=1491644908" class="avatar" border="0" align="default" alt="zonebo" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">8</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/zonebo" class="dark">zonebo</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:27:42 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">非计算机专业吧？</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289538" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/d9d0/91e2/46437_normal.png?m=1500725463" class="avatar" border="0" align="default" alt="zjsxwc" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">9</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/zjsxwc" class="dark">zjsxwc</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:28:34 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">谁负责招聘的，谁背这个锅</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289539" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/138ce56321323e26f21514c32ebebfad?s=48&d=retro" class="avatar" border="0" align="default" alt="am241" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">10</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/am241" class="dark">am241</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:28:53 +08:00 via Android</span>
+<div class="sep5"></div>
+<div class="reply_content">为什么这样的人能找到工作？？</div>
+</td>
+</tr>
+</table>
+</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block; border-bottom: 1px solid var(--box-border-color);" data-ad-format="fluid" data-ad-layout-key="-hr-19-p-2z+is" data-ad-client="ca-pub-3465543440750523" data-ad-slot="1027854874"></ins>
+<script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+<div id="r_5289543" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/ac6d/fb33/102843_normal.png?m=1477961346" class="avatar" border="0" align="default" alt="diandian0" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">11</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/diandian0" class="dark">diandian0</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:29:29 +08:00</span> &nbsp; <span class="small fade"><img src="/static/img/heart_neue_red.png?v=16ec2dd0a880be6edda1e4a2e35754b3" width="14" align="absmiddle" alt="❤️" /> 1</span>
+<div class="sep5"></div>
+<div class="reply_content">这不是说的我老公和我么 之前他就是这么给我讲的。。捂脸:)</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289544" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/d704/0b60/235125_normal.png?m=1497251229" class="avatar" border="0" align="default" alt="cnbattle" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">12</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/cnbattle" class="dark">cnbattle</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:29:36 +08:00</span> &nbsp; <span class="small fade"><img src="/static/img/heart_neue_red.png?v=16ec2dd0a880be6edda1e4a2e35754b3" width="14" align="absmiddle" alt="❤️" /> 4</span>
+<div class="sep5"></div>
+<div class="reply_content">@<a href="/member/zonebo">zonebo</a> 别黑非计算机专业入转计算机的...</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289547" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/ebbe/8868/188179_normal.png?m=1497746976" class="avatar" border="0" align="default" alt="pusidun" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">13</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/pusidun" class="dark">pusidun</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:30:51 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">后端？运维？<br />你们招他花了多少钱，4k ？ 5k ？</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289548" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/cd24/607c/80010_normal.png?m=1415063999" class="avatar" border="0" align="default" alt="KNOX" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">14</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/KNOX" class="dark">KNOX</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:31:03 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">还在实习？</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289549" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/48c4/eab0/91620_normal.png?m=1440342404" class="avatar" border="0" align="default" alt="suikator" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">15</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/suikator" class="dark">suikator</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:31:06 +08:00 via Android</span>
+<div class="sep5"></div>
+<div class="reply_content">#6 @<a href="/member/3a3Mp112">3a3Mp112</a> 你为什么这么熟练？</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289556" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/ce708dcef33f8f0c609078b41f1412bc?s=48&d=retro" class="avatar" border="0" align="default" alt="jimmyv22ex" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">16</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/jimmyv22ex" class="dark">jimmyv22ex</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:32:16 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">@<a href="/member/nicolas0caser">nicolas0caser</a> 这条回复到位；不过还要看颜值</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289558" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/3a8e/4c83/99324_normal.png?m=1580092922" class="avatar" border="0" align="default" alt="mokeyjay" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">17</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/mokeyjay" class="dark">mokeyjay</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:32:41 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">请报出其薪资、岗位</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289562" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/8b3f6f3484bca4c76c2f536c6837cff6?s=48&d=retro" class="avatar" border="0" align="default" alt="qianguozheng" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">18</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/qianguozheng" class="dark">qianguozheng</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:34:32 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">即使是个美女我也没耐心讲这些！ <br /><br />奈何，人活着就是有事情不断的探测你的底线在哪里<br />与君共勉！</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289563" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/dad67b10dac0fc3ee57f1c3a80fc4afc?s=48&d=retro" class="avatar" border="0" align="default" alt="archknight" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">19</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/archknight" class="dark">archknight</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:34:38 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">走下程序吧，</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289569" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/07d2af7f1b4f7f04aa2394767f66ff2f?s=48&d=retro" class="avatar" border="0" align="default" alt="zengyuxi" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">20</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/zengyuxi" class="dark">zengyuxi</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:36:36 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">让他换岗吧，留在身边，后患无穷！</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289577" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/7556/805a/219694_normal.png?m=1491007892" class="avatar" border="0" align="default" alt="algery" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">21</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/algery" class="dark">algery</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:37:34 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">是 他 吗 ？？？</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289587" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/c2d3/2cea/54231_normal.png?m=1553158093" class="avatar" border="0" align="default" alt="tedzhou1221" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">22</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/tedzhou1221" class="dark">tedzhou1221</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:40:20 +08:00 via Android</span> &nbsp; <span class="small fade"><img src="/static/img/heart_neue_red.png?v=16ec2dd0a880be6edda1e4a2e35754b3" width="14" align="absmiddle" alt="❤️" /> 17</span>
+<div class="sep5"></div>
+<div class="reply_content">我遇到一个科班出身的女孩子，做 Java,别人公司的，应该做了有 3 年了吧。<br />连最基本的创建一个空的 web 项目都不会。。。。<br />但她是美女，我也只能慢慢地手把手教她，嘿嘿</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289596" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/eef8bdfb3f6010f8c9c9845b1c9aee44?s=48&d=retro" class="avatar" border="0" align="default" alt="dawnven" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">23</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/dawnven" class="dark">dawnven</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:41:23 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">@<a href="/member/tedzhou1221">tedzhou1221</a> 嘿嘿了。。</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289598" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/9d397655cdcbff758f8abd9b75b5f5f7?s=48&d=retro" class="avatar" border="0" align="default" alt="TtiGeR" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">24</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/TtiGeR" class="dark">TtiGeR</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:41:33 +08:00 via iPhone</span>
+<div class="sep5"></div>
+<div class="reply_content">总比不懂装懂强<br /><br />其实教人有时候反而能理清自己思路</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289600" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/e5a1abe4eca16af9726c1ee6104084f6?s=48&d=retro" class="avatar" border="0" align="default" alt="onepunch" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">25</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/onepunch" class="dark">onepunch</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:41:44 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">已经干了 1 年，不是基础差的问题 ，感觉是学习能力的问题。这么基础的东西 。。。八成简历造假</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289602" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/e447/3b2d/199855_normal.png?m=1500516101" class="avatar" border="0" align="default" alt="codermagefox" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">26</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/codermagefox" class="dark">codermagefox</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:42:01 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">同零基础一年....... <img src="https://ws4.sinaimg.cn/bmiddle/62e721e4gw1et02g5wksrj200k00k3y9.jpg" class="embedded_image" rel="noreferrer" referrerpolicy="no-referrer"> 有人教我吗</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289612" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/bad1/fab4/242045_normal.png?m=1567771048" class="avatar" border="0" align="default" alt="lesliebay" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">27</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/lesliebay" class="dark">lesliebay</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:43:48 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">碰到不仅基础差而且除了看手机就在发呆或者睡觉的同事怎么办？</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289637" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/92ca2b747eca66c31b0eca64d91f10d5?s=48&d=retro" class="avatar" border="0" align="default" alt="jiqing" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">28</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/jiqing" class="dark">jiqing</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:49:14 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">学历好就是好啊，还有人带。按这样学历垃圾的连面试都抬不起头</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289638" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/93f3/ada6/130918_normal.png?m=1478170819" class="avatar" border="0" align="default" alt="bojackhorseman" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">29</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/bojackhorseman" class="dark">bojackhorseman</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:49:35 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">羡慕这位同学有你这么有耐心的前辈带：）</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289639" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/8327/fefd/267674_normal.png?m=1513659275" class="avatar" border="0" align="default" alt="daishankeke" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">30</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/daishankeke" class="dark">daishankeke</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:49:47 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">假的吧.... 真有一年？？</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289640" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+ <tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/c084/16d8/226695_normal.png?m=1492565159" class="avatar" border="0" align="default" alt="xiaojunjor" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">31</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/xiaojunjor" class="dark">xiaojunjor</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:49:51 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">啥啥都不知道是一年经验？这压根就是 0 基础好吧</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289652" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/246f52f901522e75950c968cff38d4cd?s=48&d=retro" class="avatar" border="0" align="default" alt="zarte" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">32</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/zarte" class="dark">zarte</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:52:09 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">愿意教就教咯，学校里没咋编程出来就这样哈哈，我也是慢慢学的。<br />坑的是抽奖程序写完没人审，人一多就挂，还以为事务有锁哈哈。</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289654" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/a935/0f10/103091_normal.png?m=1552029760" class="avatar" border="0" align="default" alt="Qlccks2" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">33</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/Qlccks2" class="dark">Qlccks2</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:52:20 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">基础差的还行，基础差还懒真是服了。</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289656" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/b3ea803a9dd29a07631e92deff378a44?s=48&d=retro" class="avatar" border="0" align="default" alt="zyxbcde" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">34</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/zyxbcde" class="dark">zyxbcde</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:52:30 +08:00 via Android</span>
+<div class="sep5"></div>
+<div class="reply_content">json 都不知道过分了啊</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289672" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/4490/ef5c/120458_normal.png?m=1433346624" class="avatar" border="0" align="default" alt="douya0808" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">35</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/douya0808" class="dark">douya0808</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:54:15 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">这不是基础啥的问题，这是"基础"被黑得最惨的一次，这是有病</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289680" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/34cd/d008/81952_normal.png?m=1580202326" class="avatar" border="0" align="default" alt="w88975" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">36</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/w88975" class="dark">w88975</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:55:38 +08:00</span> &nbsp; <span class="small fade"><img src="/static/img/heart_neue_red.png?v=16ec2dd0a880be6edda1e4a2e35754b3" width="14" align="absmiddle" alt="❤️" /> 3</span>
+<div class="sep5"></div>
+<div class="reply_content">我感觉跟我一个发小有点像 <br />我是做 IT 的,我发小专科学校毕业,找的工作都特别差,于是就想步入 IT 行业.<br />不会编程咋办呢?就报培训班,一学期几万那种 .<br />来咨询我,我说这得看天赋,还得看兴趣,你没天赋,也没兴趣,只是抱着想找一份程序员的工作来做 IT,肯定是不行的.<br />然后他就信誓旦旦的说他在社会上摸爬滚打了那么多年,尝到了苦头,肯定会认真学的(其实他也是个贪玩的人,说这话的时候,我其实不怎么信,毕竟培训机构环境会影响人)<br />我呢,也不能打消别人的积极性不是,而且看在是发小的份上,就跟他合租了一套房子(也有他自己的原因 一个人租房太贵 我跟他合租有时候也能辅导他)<br /><br />交了学费,开始培训,刚开始,他觉得自己挺刻苦的,一个基本的入门题,也会做,问知道为什么这样做,结果也不知道为啥,反正就是这样写,我苦口婆心的教了很久,觉得懂了,过两天又忘了.就跟楼主提到的同事一样,问啥,啥也不会,让学,也学不会,只是当时觉得好像懂了,但其实啥都不懂.<br /><br />并且我这个发小,其实对互联网一点兴趣都没有,平时不逛技术论坛,也没有啥获取行业知识的渠道,只知道老师教的东西,自己学会了,就觉得 OK 了. 说句政治不正确的话,他整天除了看内涵段子,连基本的微博,知乎都没有.就连微信支付宝也很排斥,都 2017 年了,还觉得出门带钱最实在,不喜欢用在线支付.<br /><br />我也很早看出来,他根本不是这块料,后来培训完毕业,找了几个月工作,不出所料,一份工作都没有找到,现在回家去星巴克当收银了.<br /><br />你以为这就完了<br /><br />他还觉得是我害了他,是我没有阻止他去培训,导致他浪费一年多时间,是我平时太贪玩,不愿意腾出时间来教他,导致他基础这么差.<br />WTF!</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289681" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/d9d3/47f5/6639_normal.png?m=1402029570" class="avatar" border="0" align="default" alt="luo123qiu" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">37</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/luo123qiu" class="dark">luo123qiu</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:55:41 +08:00</span> &nbsp; <span class="small fade"><img src="/static/img/heart_neue_red.png?v=16ec2dd0a880be6edda1e4a2e35754b3" width="14" align="absmiddle" alt="❤️" /> 1</span>
+<div class="sep5"></div>
+<div class="reply_content">这个不叫基础差，叫根本就没有基础吧？</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289682" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/e0b6/0d93/5941_normal.png?m=1334724519" class="avatar" border="0" align="default" alt="tux" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">38</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/tux" class="dark">tux</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:55:42 +08:00</span> &nbsp; <span class="small fade"><img src="/static/img/heart_neue_red.png?v=16ec2dd0a880be6edda1e4a2e35754b3" width="14" align="absmiddle" alt="❤️" /> 5</span>
+<div class="sep5"></div>
+<div class="reply_content">他可能是爱上你了</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289688" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/b52d/310f/18352_normal.png?m=1517243378" class="avatar" border="0" align="default" alt="yunfeihe" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">39</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/yunfeihe" class="dark">yunfeihe</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:56:56 +08:00</span> &nbsp; <span class="small fade"><img src="/static/img/heart_neue_red.png?v=16ec2dd0a880be6edda1e4a2e35754b3" width="14" align="absmiddle" alt="❤️" /> 1</span>
+<div class="sep5"></div>
+<div class="reply_content">零基础不建议从 flask 学 web 开发，总说 flask 比 django 简单，写个 helloworld 是挺简单的，几行就出来了。问题 web 开发又不是 helloworld，各种插件搞得人头都大了，更别说那个蓝图，django 大而全，文档写的又很好，学好了再根据取舍学 flask。</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289692" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/5c480629589fed43bd8780fe5f392341?s=48&d=retro" class="avatar" border="0" align="default" alt="JasperYanky" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">40</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/JasperYanky" class="dark">JasperYanky</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 16:57:40 +08:00</span> &nbsp; <span class="small fade"><img src="/static/img/heart_neue_red.png?v=16ec2dd0a880be6edda1e4a2e35754b3" width="14" align="absmiddle" alt="❤️" /> 9</span>
+<div class="sep5"></div>
+<div class="reply_content">他：rm -rf / 是什么？<br />我：你 google 下就知道了。<br />他: 我电脑风扇狂转了~</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289709" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/5b37/1924/237845_normal.png?m=1498727411" class="avatar" border="0" align="default" alt="Veigar" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">41</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/Veigar" class="dark">Veigar</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:00:27 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">本科？ 这 TM 连专科毕业的都不如！</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289729" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/4f745d7ad50e5edc89aed555eb44ef5f?s=48&d=retro" class="avatar" border="0" align="default" alt="little009" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">42</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/little009" class="dark">little009</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:04:49 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">学徒么...</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289744" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/96a3/1061/172314_normal.png?m=1507769571" class="avatar" border="0" align="default" alt="circleee" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">43</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/circleee" class="dark">circleee</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:06:29 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">@<a href="/member/bojackhorseman">bojackhorseman</a> +1</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289750" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/7cc7f29278071bd4dce995612d428834?s=48&d=retro" class="avatar" border="0" align="default" alt="RYAN0UP" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">44</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/RYAN0UP" class="dark">RYAN0UP</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:07:08 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">他的问题连我都会....<br />培训一年路过...</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289767" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/7b07/62be/220478_normal.png?m=1562898166" class="avatar" border="0" align="default" alt="scofieldpeng" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">45</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/scofieldpeng" class="dark">scofieldpeng</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:10:37 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">@<a href="/member/w88975">w88975</a> 这种发小还留着做什么？</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289785" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/7cab/5966/32383_normal.png?m=1468682604" class="avatar" border="0" align="default" alt="Phariel" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">46</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/Phariel" class="dark">Phariel</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:14:58 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">一年开发经验。。。 <br />是不是培训班包装过的？</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289789" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/53b7ce5584d4e58170c76b567bb97b25?s=48&d=retro" class="avatar" border="0" align="default" alt="gamexg" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">47</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/gamexg" class="dark">gamexg</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:16:24 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">1 年经验？<br />假简历吧？</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289800" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/c291/1115/187594_normal.png?m=1532576867" class="avatar" border="0" align="default" alt="phantom1124" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">48</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/phantom1124" class="dark">phantom1124</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:19:30 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">开了吧，连 json 都不知道，说有一年经验就信了？？？</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289821" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/d221/64fc/45500_normal.png?m=1404110781" class="avatar" border="0" align="default" alt="tabris17" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">49</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/tabris17" class="dark">tabris17</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:23:41 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">谁把他招进来的？必须问责！什么？他是老板的小舅子？那你去玩游戏吧，我来干</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289826" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/7042/926d/173143_normal.png?m=1531401286" class="avatar" border="0" align="default" alt="twor" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">50</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/twor" class="dark">twor</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:24:46 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">看他的态度吧，有的人，开窍后很快的</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289830" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/7042/926d/173143_normal.png?m=1531401286" class="avatar" border="0" align="default" alt="twor" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">51</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/twor" class="dark">twor</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:26:02 +08:00</span> &nbsp; <span class="small fade"><img src="/static/img/heart_neue_red.png?v=16ec2dd0a880be6edda1e4a2e35754b3" width="14" align="absmiddle" alt="❤️" /> 1</span>
+<div class="sep5"></div>
+<div class="reply_content">@<a href="/member/tabris17">tabris17</a> 什么？你是老板的小姨子？那我来干吧</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289832" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/6f7b/9e11/49952_normal.png?m=1388036543" class="avatar" border="0" align="default" alt="Juggernaut" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">52</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/Juggernaut" class="dark">Juggernaut</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:26:10 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">怎么进来的？<br />看看学习态度，入门还是很 easy 的</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289836" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/c12274237002481ba2c2e7b937930ed3?s=48&d=retro" class="avatar" border="0" align="default" alt="HuangLibo" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">53</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/HuangLibo" class="dark">HuangLibo</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:26:47 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">直接找技术组负责招聘的人, 问问怎么回事.</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289846" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/025aa9b1c737e3936857e13857c85fda?s=48&d=retro" class="avatar" border="0" align="default" alt="we000" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">54</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/we000" class="dark">we000</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:28:41 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">确实有点差, 不过什么都问的态度也还行, 就是带着太累了</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289850" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/a9f07a840c6b1db8786449472bacd25d?s=48&d=retro" class="avatar" border="0" align="default" alt="1seven" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">55</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/1seven" class="dark">1seven</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:30:29 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">师傅领进门 修行靠个人。 有上进心，好学的新人挺可爱，怕的就是伸手党，你要是有点脾气人家还来一句，谁都是从新人过来的.......</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289857" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/07b12db78b31474fc42fb8ac87b86e84?s=48&d=retro" class="avatar" border="0" align="default" alt="curdboy" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">56</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/curdboy" class="dark">curdboy</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:33:28 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">挺（ T ）萌（ M ）的（ D ）</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289867" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/03d6/8eed/236755_normal.png?m=1564538848" class="avatar" border="0" align="default" alt="yutou527" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">57</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/yutou527" class="dark">yutou527</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:34:55 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">我猜他是女的</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289868" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/043a/5783/84957_normal.png?m=1458204503" class="avatar" border="0" align="default" alt="metrue" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">58</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/metrue" class="dark">metrue</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:34:56 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">本科名校？这是什么名校的娃.....</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289872" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/42e2dfee2b14edaa300214f9ecae427e?s=48&d=retro" class="avatar" border="0" align="default" alt="donyee" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">59</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/donyee" class="dark">donyee</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:35:33 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">这么一对比，我之前的同事还可以啊<br />让他实现一个功能，然后他上网找例子，居然实现了；<br />就是类名暴露了，Sample 开头的！</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289875" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/9ee6/32c7/282007_normal.png?m=1516085940" class="avatar" border="0" align="default" alt="xkeyideal" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">60</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/xkeyideal" class="dark">xkeyideal</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:36:14 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">就这种人，你还有耐心教，我挺佩服楼主的，直接踢了就得了，顺便把招这个人进来的那个也开了。</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289880" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/2622250d18f6fb29d1a134948872bc97?s=48&d=retro" class="avatar" border="0" align="default" alt="royluo" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">61</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/royluo" class="dark">royluo</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:37:25 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">@<a href="/member/yutou527">yutou527</a> 我也才是个女生</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289881" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/81de/18b8/204213_normal.png?m=1481353826" class="avatar" border="0" align="default" alt="scriptB0y" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">62</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/scriptB0y" class="dark">scriptB0y</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:37:31 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">怎么招进来的</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289882" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/be03216e1021efd474edaecb3f1f3ed2?s=48&d=retro" class="avatar" border="0" align="default" alt="v2yybb" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">63</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/v2yybb" class="dark">v2yybb</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:37:39 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">表示前段时间才开了一个这样的弟兄</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289884" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/73e1326db2b7f68f9a1a14ffb16c84e9?s=48&d=retro" class="avatar" border="0" align="default" alt="muyu7279" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">64</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/muyu7279" class="dark">muyu7279</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:38:19 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">@<a href="/member/yunfeihe">yunfeihe</a> 赞同</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289888" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/272dfa49948a90c4ff39c2d33cb4f56d?s=48&d=retro" class="avatar" border="0" align="default" alt="TestSmirk" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">65</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/TestSmirk" class="dark">TestSmirk</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:39:05 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">这不就是反应了一些人稍微会点之后就对新人的忽视吗. <br />如果在瓶颈期多一些这样的新人也很好,万一讲着讲着自己就恍然大悟了呢.</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289900" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/daa0/64b6/214489_normal.png?m=1563518331" class="avatar" border="0" align="default" alt="Hypn0s" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">66</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/Hypn0s" class="dark">Hypn0s</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:41:56 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">我想起之前遇见一个新人问“撤销的命令是啥”，我以为是他搞 git 有啥问题需要 revert，结果他想问的是“ ctrl + z ”...</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289905" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/3ad8520d5ab1f4ddee0cc386684cb3a1?s=48&d=retro" class="avatar" border="0" align="default" alt="jasontse" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">67</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/jasontse" class="dark">jasontse</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:42:54 +08:00 via iPad</span>
+<div class="sep5"></div>
+<div class="reply_content">@<a href="/member/JasperYanky">JasperYanky</a> 我百度了下什么是 google，打不开</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289906" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/6c15/4ad6/118223_normal.png?m=1466688427" class="avatar" border="0" align="default" alt="kaedea" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">68</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/kaedea" class="dark">kaedea</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:42:55 +08:00 via Android</span>
+<div class="sep5"></div>
+<div class="reply_content">1. 向他上级报告。<br />2. 比不懂装懂或者好为人师有莫名优越感的人强。</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289907" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/c7ad/8478/271429_normal.png?m=1519362688" class="avatar" border="0" align="default" alt="pkookp8" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">69</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/pkookp8" class="dark">pkookp8</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:43:14 +08:00 via Android</span>
+<div class="sep5"></div>
+<div class="reply_content">见过用 c，但 open 都不会用的嘛，我见过</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289910" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/4aca89d96810374e3e0fa93a4e5c1af1?s=48&d=retro" class="avatar" border="0" align="default" alt="ooxiaoming" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">70</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/ooxiaoming" class="dark">ooxiaoming</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:43:37 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">我觉得这个不能说基础差吧？只能说学习能力弱...</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289925" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/d92e/7173/175311_normal.png?m=1571921082" class="avatar" border="0" align="default" alt="Mogugugugu" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">71</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/Mogugugugu" class="dark">Mogugugugu</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:46:56 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">我想说 怎么进来的？多少钱？因为名校么？</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289936" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/574b/941e/111337_normal.png?m=1595231694" class="avatar" border="0" align="default" alt="wellsc" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">72</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/wellsc" class="dark">wellsc</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:49:09 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">@<a href="/member/Hypn0s">Hypn0s</a> #66 ctrl + z 难道不是后台运行？</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289948" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/b576/ea3e/132993_normal.png?m=1473406593" class="avatar" border="0" align="default" alt="shiji" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">73</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/shiji" class="dark">shiji</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:51:23 +08:00 via Android</span>
+<div class="sep5"></div>
+<div class="reply_content">下班堵 hr 揍他一顿。<br />这不是基础差，是没基础+没有学习能力</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289957" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/e910/a638/4104_normal.png?m=1335073893" class="avatar" border="0" align="default" alt="wingoo" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">74</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/wingoo" class="dark">wingoo</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:52:48 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">一年 json 还不知道, 可以让他 /她转行了</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289970" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/9671/5048/234901_normal.png?m=1498533675" class="avatar" border="0" align="default" alt="Uching" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">75</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/Uching" class="dark">Uching</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:56:34 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">好想有个这么有耐性的前辈</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289974" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/8ba3/b73c/167143_normal.png?m=1548211763" class="avatar" border="0" align="default" alt="hasbug" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">76</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/hasbug" class="dark">hasbug</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:57:37 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">这不叫基础差。。。</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289981" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/8ba3/b73c/167143_normal.png?m=1548211763" class="avatar" border="0" align="default" alt="hasbug" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">77</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/hasbug" class="dark">hasbug</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:58:27 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">@<a href="/member/tedzhou1221">tedzhou1221</a> 嘿嘿嘿，加班带</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289985" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/04c7/f37f/12555_normal.png?m=1437722989" class="avatar" border="0" align="default" alt="x86" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">78</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/x86" class="dark">x86</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:58:52 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">这不是基础差，是不适合做这行</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289986" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/11dc/10be/104323_normal.png?m=1428918262" class="avatar" border="0" align="default" alt="northisland" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">79</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/northisland" class="dark">northisland</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 17:59:03 +08:00</span> &nbsp; <span class="small fade"><img src="/static/img/heart_neue_red.png?v=16ec2dd0a880be6edda1e4a2e35754b3" width="14" align="absmiddle" alt="❤️" /> 13</span>
+<div class="sep5"></div>
+<div class="reply_content">不知道 json 算个鸟<br /><br />说实话，老子老老实实学自动化的本科，985。四年起码有 2 年不划水。<br />做实验几乎是全班前几个做完的，大学生电子设计竞赛里，还拿过北京市级别的奖~<br />小弟在本科阶段丝毫不知道 JSON。<br /><br />读到研究生，转了计算机，学了一顿泛函、黎曼几何。<br />到研 2，为了备份+好浏览 chrome 的收藏夹，花了好几个月时间，用 C++写了个解析 <br />%userprofile%\AppData\Local\Google\Chrome\User Data\Default\Bookmarks<br />的库，涉及树的解析，\u 这种 unicode 东东转换 ANSI 字符串的工具。。。<br />忙了好几个月<br /><br /><br /><br />后来才知道 Bookmarks 是个 json<br /><br /><br /><br />青春真是不堪回首~</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5289999" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/7855/4251/219201_normal.png?m=1488782603" class="avatar" border="0" align="default" alt="xwhxbg" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">80</span></div>
+<div class="sep3"></div>
+ <strong><a href="/member/xwhxbg" class="dark">xwhxbg</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 18:02:01 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">我有个同事也是的，北京那边分部的，前端工程师，写 js 只会复制粘贴，代码哪怕一点点变化就 GG，而且编辑器不用任何插件，sublime2 开箱，连基本的 eslint 都没得</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5290008" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/cfec/b5d3/256180_normal.png?m=1518163525" class="avatar" border="0" align="default" alt="enzohobmg" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">81</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/enzohobmg" class="dark">enzohobmg</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 18:04:32 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">有你真好！</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5290012" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/1dc16445a6e93fb3545b2e0fd7b071fe?s=48&d=retro" class="avatar" border="0" align="default" alt="scarletmu" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">82</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/scarletmu" class="dark">scarletmu</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 18:06:02 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">当初带了个同学来前厂实习也是...后来受不了了态度也不积极跟老板说把他结果了</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5290014" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/820c611835bb6eea4851c318a3b73345?s=48&d=retro" class="avatar" border="0" align="default" alt="laike9m" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">83</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/laike9m" class="dark">laike9m</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 18:06:41 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">该换公司了</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5290049" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/1db3/bd83/237874_normal.png?m=1498733829" class="avatar" border="0" align="default" alt="cominghome" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">84</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/cominghome" class="dark">cominghome</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 18:16:05 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">所以他是怎么混进来的？靠学历？</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5290068" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/e5235c81f078843d4e92ac6804b492c1?s=48&d=retro" class="avatar" border="0" align="default" alt="18914940609" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">85</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/18914940609" class="dark">18914940609</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 18:19:28 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">@<a href="/member/tedzhou1221">tedzhou1221</a> 你这声嘿嘿也太贱啦</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5290075" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/697f/a8c9/102399_normal.png?m=1463457238" class="avatar" border="0" align="default" alt="yhxx" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">86</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/yhxx" class="dark">yhxx</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 18:21:19 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">居然没有人说他一定是前端（滑稽</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5290113" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/85745bdc58d741dfa34db467e0a43f28?s=48&d=retro" class="avatar" border="0" align="default" alt="meszyouh" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">87</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/meszyouh" class="dark">meszyouh</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 18:30:37 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">为什么能找到工作。</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5290141" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/966b/8977/207611_normal.png?m=1493881771" class="avatar" border="0" align="default" alt="13036101641" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">88</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/13036101641" class="dark">13036101641</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 18:36:42 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">开了吧</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5290148" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/ffff/1b67/258632_normal.png?m=1518405054" class="avatar" border="0" align="default" alt="gbin" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">89</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/gbin" class="dark">gbin</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 18:38:38 +08:00 via Android</span>
+<div class="sep5"></div>
+<div class="reply_content">@<a href="/member/KNOX">KNOX</a> 别黑实习生。。</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5290157" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/ffff/1b67/258632_normal.png?m=1518405054" class="avatar" border="0" align="default" alt="gbin" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">90</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/gbin" class="dark">gbin</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 18:40:21 +08:00 via Android</span>
+<div class="sep5"></div>
+<div class="reply_content">@<a href="/member/tedzhou1221">tedzhou1221</a> # 手把手叫她嘿嘿? 🌚</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5290160" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/caca/0d0d/205684_normal.png?m=1512026950" class="avatar" border="0" align="default" alt="grimpil" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">91</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/grimpil" class="dark">grimpil</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 18:41:29 +08:00 via Android</span>
+<div class="sep5"></div>
+<div class="reply_content">问问门口的保安，看他们哪里还招人不，让你同事去进修一年</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5290161" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/04ac/54fb/128310_normal.png?m=1599643742" class="avatar" border="0" align="default" alt="jeremaihloo" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">92</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/jeremaihloo" class="dark">jeremaihloo</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 18:42:06 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">@<a href="/member/northisland">northisland</a> #79 老哥，你这要不是个段子，你就厉害了</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5290174" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/3fc0d1512bb361a851023cbda48f9095?s=48&d=retro" class="avatar" border="0" align="default" alt="qqpkat2" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">93</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/qqpkat2" class="dark">qqpkat2</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 18:47:07 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">直接跟领导反映开了吧<br />我还碰到前公司技术组长天天喊高并发大数据负载均衡的，不知道 socket 是什么</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5290180" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/2a49275be8ac2e729d470626e739e8e9?s=48&d=retro" class="avatar" border="0" align="default" alt="l1093178" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">94</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/l1093178" class="dark">l1093178</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 18:48:22 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">@<a href="/member/yunfeihe">yunfeihe</a> +1，Django 是大而全，不过文档很详细，而且更重要的是，Django 的文档和栗子包含了很多最佳实践，新人如果直接用 Flask 可能根本就意识不到这些问题的存在（比如说表单的 CSRF token ）</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5290208" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/3cd3658f8f8fdb82cf8c5f9863bb7265?s=48&d=retro" class="avatar" border="0" align="default" alt="deadseven" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">95</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/deadseven" class="dark">deadseven</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 18:55:48 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">@<a href="/member/tedzhou1221">tedzhou1221</a> 你确定是手把手的教？哈哈</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5290217" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/5c5e/fbfa/183522_normal.png?m=1517474901" class="avatar" border="0" align="default" alt="im67" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">96</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/im67" class="dark">im67</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 18:57:29 +08:00</span>
+<div class="sep5"></div>
+<div class="reply_content">这……都能找到工作？？？？？？</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5290226" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/3cd3658f8f8fdb82cf8c5f9863bb7265?s=48&d=retro" class="avatar" border="0" align="default" alt="deadseven" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">97</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/deadseven" class="dark">deadseven</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 18:59:29 +08:00</span> &nbsp; <span class="small fade"><img src="/static/img/heart_neue_red.png?v=16ec2dd0a880be6edda1e4a2e35754b3" width="14" align="absmiddle" alt="❤️" /> 1</span>
+<div class="sep5"></div>
+<div class="reply_content">@<a href="/member/royluo">royluo</a> 你也才，什么你以前是男的么</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5290230" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/9fa0/a50c/172635_normal.png?m=1462966946" class="avatar" border="0" align="default" alt="uhayate" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">98</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/uhayate" class="dark">uhayate</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 19:00:22 +08:00 via iPhone</span>
+<div class="sep5"></div>
+<div class="reply_content">面试官怕是要负主责哦。</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5290232" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/avatar/5563/bf98/213816_normal.png?m=1514706472" class="avatar" border="0" align="default" alt="hardman" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">99</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/hardman" class="dark">hardman</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 19:00:48 +08:00 via Android</span>
+<div class="sep5"></div>
+<div class="reply_content">一年经验。。。，同羡慕有楼主这样的前辈带，楼主你们公司还要人吗，我比他强点</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="r_5290247" class="cell">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="48" valign="top" align="center"><img src="https://cdn.v2ex.com/gravatar/d48c2aa6fd622d410a941eb0c79651fd?s=48&d=retro" class="avatar" border="0" align="default" alt="duan602728596" /></td>
+<td width="10" valign="top"></td>
+<td width="auto" valign="top" align="left"><div class="fr"> &nbsp; &nbsp; <span class="no">100</span></div>
+<div class="sep3"></div>
+<strong><a href="/member/duan602728596" class="dark">duan602728596</a></strong>&nbsp; &nbsp;<span class="ago">2018-02-02 19:05:47 +08:00 via iPhone</span>
+<div class="sep5"></div>
+<div class="reply_content">正常，前两天还有人问我：后台取到数据 传到前台 undefind 是啥原因啊<br />我又不是他们公司的开发，我啥都看不到，我咋知道</div>
+</td>
+</tr>
+</table>
+</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block; border-bottom: 1px solid var(--box-border-color);" data-ad-format="fluid" data-ad-layout-key="-hr-19-p-2z+is" data-ad-client="ca-pub-3465543440750523" data-ad-slot="1027854874"></ins>
+<script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+<div class="cell" style="background-image: url('/static/img/shadow_light.png'); background-size: 20px 20px; background-repeat: repeat-x;">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="92%" align="left"><a href="?p=1" class="page_current">1</a> &nbsp;<a href="?p=2" class="page_normal">2</a> &nbsp; <input type="number" class="page_input" autocomplete="off" value="1" min="1" max="2" onkeydown="if (event.keyCode == 13)
+                    location.href = '?p=' + this.value" /></td>
+<td width="8%" align="right">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="50%" align="center" class="super normal button disable_now" style="border-right: none; border-top-right-radius: 0px; border-bottom-right-radius: 0px;">❮</td>
+<td width="50%" align="center" class="super normal_page_right button" style="border-top-left-radius: 0px; border-bottom-left-radius: 0px;" onclick="location.href='?p=2';" onmouseover="$(this).addClass('hover_now');" onmousedown="$(this).addClass('active_now');" onmouseleave="$(this).removeClass('hover_now'); $(this).removeClass('active_now');" title="下一页">❯</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="sep20"></div>
+</div>
+</div>
+<div class="c"></div>
+<div class="sep20"></div>
+</div>
+<div id="Bottom">
+<div class="content">
+<div class="inner">
+<div class="sep10"></div>
+<div class="fr">
+<a href="https://www.digitalocean.com/?refcode=1b51f1a7651d" target="_blank"><div id="DigitalOcean"></div></a>
+</div>
+<strong><a href="/about" class="dark" target="_self">关于</a> &nbsp; <span class="snow">·</span> &nbsp; <a href="/faq" class="dark" target="_self">FAQ</a> &nbsp; <span class="snow">·</span> &nbsp; <a href="/p/7v9TEc53" class="dark" target="_self">API</a> &nbsp; <span class="snow">·</span> &nbsp; <a href="/mission" class="dark" target="_self">我们的愿景</a> &nbsp; <span class="snow">·</span> &nbsp; <a href="/advertise" class="dark" target="_self">广告投放</a> &nbsp; <span class="snow">·</span> &nbsp; <a href="/advertise/2019.html" class="dark" target="_self">感谢</a> &nbsp; <span class="snow">·</span> &nbsp; <a href="/tools" class="dark" target="_self">实用小工具</a> &nbsp; <span class="snow">·</span> &nbsp; 2136 人在线</strong> &nbsp; <span class="fade">最高记录 5168</span> &nbsp; <span class="snow">·</span> &nbsp; <a href="/select/language" class="f11"><img src="/static/img/language.png?v=6a5cfa731dc71a3769f6daace6784739" width="16" align="absmiddle" id="ico-select-language" /> &nbsp; Select Language</a>
+<div class="sep20"></div>
+创意工作者们的社区
+<div class="sep5"></div>
+World is powered by solitude
+<div class="sep20"></div>
+ <span class="small fade">VERSION: 3.9.8.5 · 24ms · UTC 16:13 · PVG 00:13 · LAX 09:13 · JFK 12:13<br />♥ Do have faith in what you're doing.</span>
+<div class="sep10"></div>
+</div>
+</div>
+</div>
+<script src="/b/i/WEfKjPMlG6AHkFZa0W_5NGov8j7_fYDhVFaIM4ggQ9bApiFEKwr97b7Op1X1dMr0yQ8esY2S25edJMDwavsysG4s22YDFTVYa5v5Ts8Wq25M54XSeoKPHVKgv9oiWU8fawq6q8aOCwAfnpWjFeKMyQtppWpsV1u-zdTW6yliaQg="></script>
+<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-11940834-2', 'v2ex.com');
+	  ga('send', 'pageview');
+      
+
+ga('send', 'event', 'Node', 'topic', 'career');
+
+
+
+	</script>
+</body>
+</html>
